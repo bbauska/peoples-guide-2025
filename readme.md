@@ -1,39 +1,39 @@
-<h1>The People's Guide to Project 2025</h1>
+<h1>The<br>
+People's<br>
+Guide to<br>
+Project 2025</h1>
 
 <cite>A project by<br>
 <b>Democracy Forward</b></cite>
 
-<b>&verbar;</b>
-
-June 2024
+<b>&verbar;</b> June 2024
 
 <blockquote>
-Breaking down the far-right playbook
-to take our country
-<b>backward</b>
+Breaking down the far-right playbook<br>
+to take our country <b>backward</b>
 </blockquote>
 
-<p>Project 2025 is among the most <b>profound threats</b> to the American
-people.</p>
+<h2>Project 2025 is among the<br>
+most <b>profound threats</b><br>
+to the American people.</h2>
 
-> <b>What is Project 2025?</b>
->
-> ![](./images/media/image4.png){width="1.9in" height="7.1in"}The
-> Project 2025 Presidential Transition Project is a well-funded
-> (eight-figure) effort of the Heritage Foundation and more than 100
-> organizations to enable a future anti-democratic presidential
-> administration to take swift, far-right action that would cut wages
-> for working people, dismantle social safety net programs, reverse
-> decades of progress for civil rights, redefine the way our society
-> operates, and undermine our economy.
->
-> A central pillar of Project 2025 is the"Mandate for Leadership," a
-> 900+ page policy playbook authored by former Trump administration
-> officials and other extremists that provides a radical vision for our
-> nation and a roadmap to implement it.
->
-> <b>We read Project 2025's entire 900+ page "Mandate for Leadership" so
-> that you don't have to.</b>
+<h3><b>What is Project 2025?</b></h3>
+
+The Project 2025 Presidential Transition Project is a well-funded
+(eight-figure) effort of the Heritage Foundation and more than 100
+organizations to enable a future anti-democratic presidential
+administration to take swift, far-right action that would cut wages
+for working people, dismantle social safety net programs, reverse
+decades of progress for civil rights, redefine the way our society
+operates, and undermine our economy.
+
+A central pillar of Project 2025 is the"Mandate for Leadership," a
+900+ page policy playbook authored by former Trump administration
+officials and other extremists that provides a radical vision for our
+nation and a roadmap to implement it.
+
+<h4><b>We read Project 2025's entire 900+ page "Mandate for Leadership" so
+that you don't have to.</b></h4>
 
 What we discovered was a systemic, ruthless plan to undermine the
 quality of life of millions of Americans, remove critical protections
@@ -51,10 +51,9 @@ could have their food assistance reduced, <b>220,000 American jobs</b>
 could be lost, and much, much, more. The stakes are higher than ever for
 democracy and for people.
 
-> <b>These threats aren't hypothetical. These are their real plans.</b>
+<h4><b>These threats aren't hypothetical. These are their real plans.</b></h4>
 
-![](./images/media/image5.png){width="7.5in" height="4.62in"}The
-Heritage Foundation and the 100+ organizations that make up the Project
+The Heritage Foundation and the 100+ organizations that make up the Project
 2025 Advisory Board have mapped out exactly how they will achieve their
 extreme ends. They aim to carry out many of the most troubling proposals
 through an anti-democratic president and political loyalists installed
@@ -63,68 +62,56 @@ while many of these plans are unlawful, winning in court is not
 guaranteed given that the same far-right movement that is behind Project
 2025 has shaped our current court system.
 
-> <b>To combat the threats posed by Project 2025, we have to first
-> understand them.</b>
+<h4><b>To combat the threats posed by Project 2025, we have to first
+understand them.</b></h4>
 
 What follows are some of the most dangerous proposals that make up
 Project 2025, specifically those that could be implemented through
 federal agencies and a farright executive branch.
 
-> The majority of Americans share the same values and priorities, but
-> Project 2025 wants to push an extreme, out-of-touch agenda on all of
-> us. <b>By reading this guide and sharing it, we can begin to address
-> these threats and go on offense towards building a bold, inclusive
-> democracy for all people.</b>
->
-> <b>Project 2025 Snapshot</b>
+The majority of Americans share the same values and priorities, but
+Project 2025 wants to push an extreme, out-of-touch agenda on all of
+us. <b>By reading this guide and sharing it, we can begin to address
+these threats and go on offense towards building a bold, inclusive
+democracy for all people.</b>
+
+<h4><b>Project 2025 Snapshot</b></h4>
 
 Proposals from Project 2025, discussed in detail throughout this guide,
 that could be implemented through executive branch action alone --- so
 without new legislation --- include:
 
-> <b>Limit access to food assistance,</b> which an average of more than 40
-> million people rely on monthly,
->
-> 21.6 million households
+<h4><b>Limit access to food assistance,</b></h4>
+which an average of more than 40 million people rely on monthly, 21.6 million households
 
-<b>Cut American Rescue Plan</b> (ARP) programs that have created or saved
+<h4><b>Cut American Rescue Plan</b></h4>
+(ARP) programs that have created or saved 220,000 jobs
 
-220,000 jobs
+<h4><b>Roll back civil rights protections</b></h4>
+across multiple fronts,
+including cutting diversity, equity, and inclusion-related (DEI)
+programs and LGBTQ+ rights in health care, education, and workplaces.
 
-> <b>Roll back civil rights protections</b> across multiple fronts,
-> including cutting diversity, equity, and inclusion-related (DEI)
-> programs and LGBTQ+ rights in health care, education, and workplaces.
->
-> <b>Eliminate the Head Start early education</b>
-
+<h4><b>Eliminate the Head Start early education</b></h4>
 program, which serves over <b>Stop efforts</b> to
+lower prescription million children ^drug\ prices^
 
-> lower prescription million children ^drug\ prices^
-
-1
-
-<b>Cut overtime</b> protections for Push more people towards Medicare
-
-> Advantage and <b>other worse, private</b>
-
+<h4><b>Cut overtime</b></h4>
+protections for Push more people towards Medicare
+Advantage and <b>other worse, private</b>
 4.3 million <b>options,</b> that's
-
 workers 33 million people
 
 <b>Restrict</b> access to medication abortion Expose the 368,000
-
 <b>Deny students</b> in 25 states and children
-
-> Washington, D.C. access to student loans
->
-> because their school provides in-state ^in^ <b>foster care</b>
-> ^to\ risk\ of^ tuition to undocumented immigrants
-> ^increased\ discrimination^
+Washington, D.C. access to student loans
+because their school provides in-state ^in^ <b>foster care</b>
+^to\ risk\ of^ tuition to undocumented immigrants
+^increased\ discrimination^
 
 Contents:
 
-> ![](./images/media/image6.png){width="5.776666666666666in"
-> height="3.026666666666667in"}<b>Here's what's under attack</b>
+<h4><b>Here's what's under attack</b></h4>
 
 <b>[Cut Wages, Create Unsafe Workplaces,]</b>
 
@@ -1504,21 +1491,19 @@ their expertise and gave him one anyway.
 > itself, too, is threatened by proposals to concentrate military
 > decisionmaking, further undermine our intelligence agencies, or
 > promote isolationist policies.
->
-> We continue to analyze these policies and their harms to people, and
-> expect to release updated versions of the People's Guide with reports
-> on the threats that would make it harder to run a business, put our
-> security at risk, and more. [<b>[Click here to sign up to receive
-> the]</b> <b>[updated reports directly in your
-> inbox]</b>.](https://democracyforward.org/action/updates-2025)
+
+We continue to analyze these policies and their harms to people, and
+expect to release updated versions of the People's Guide with reports
+on the threats that would make it harder to run a business, put our
+security at risk, and more. 
+<b><a href="https://democracyforward.org/action/updates-2025">Click here to sign up to receive
+the updated reports directly in your inbox</a></b>.
 
 A project by <b>Democracy Forward</b> <b>&verbar;</b> June 2024
 
 We cannot let Project 2025 write the next chapter of our nation's story.
 
 To learn more about how we can confront the threats presented in this
-guide head-on and begin to
-
-build a bold, vibrant democracy for all people, visit
+guide head-on and begin to build a bold, vibrant democracy for all people, visit
 <b>
-<a href="https://democracyforward.org/action/join-2025/">democracyforward.org/action/join-202</a></b>.
+<a href="https://democracyforward.org/action/join-2025/">democracyforward.org/action/join-2025</a></b>.
