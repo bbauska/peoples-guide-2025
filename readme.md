@@ -506,43 +506,27 @@ return':]</i></b>](https://www.politico.com/newsletters/politico-pulse/2024/01/3
 <b>In their own words:</b>
 
 Using the EPA to classify the chemicals in abortion
-
 pill mifepristone as "forever chemicals" subject to stricter
-regulations.
-
-"
+regulations."
 
 <b>How they'd do it:</b>
 
-Push people towards private Medicare plans
-
-that worsen health outcomes.
-
-Under the guise
-
-of allowing greater choice, Project 2025 would
-
-push policies that favor private, worse-performing
-
+Push people towards private Medicare plans that worsen health outcomes. 
+Under the guise of allowing greater choice, Project 2025 would push policies that favor private, worse-performing 
 alternatives to Medicare.
 
-<b>3</b>
-
-While many of Project 2025's plans for Medicare require congressional
-action, they also encourage a future administration to use all possible
-levers, including the Centers for Medicare and Medicaid Services (CMS),
+While many of Project 2025's plans for Medicare require congressional action, they also encourage a future 
+administration to use all possible levers, including the Centers for Medicare and Medicaid Services (CMS),
 to alter this critical program however they can.
 
-Several of their proposals would push people towards private Medicare
-alternatives, which are not real alternatives at all --- with
-[<b><a href="https://www.nbcnews.com/health/rejecting-claims-medicare-advantage-rural-hospitals-rcna121012">[reports]</a></b> 
-showing that "Medicare Advantage plans threaten rural hospitals and
-patients" and (<b><a href="https://www.nytimes.com/2022/11/03/upshot/private-medicare-misleading-marketing.html">[misled]</a></b>)
-people into signing up for them. While Project 2025 may pitch these
-Medicare 'reforms' as encouraging consumer choice, in reality they will
-leave seniors worse off across the country --- putting the health of
-many of the [<b>[33 million people enrolled in traditional]</b>
-<b><a href="https://medicareadvocacy.org/medicare-enrollment-numbers/#:~:text=The%20Centers%20for%20Medicare%20%26%20Medicaid,are%20enrolled%20in%20Original%20Medicare.">[Medicare]</a></b> at risk.
+Several of their proposals would push people towards private Medicare alternatives, which are not real alternatives 
+at all --- with [<b><a href="https://www.nbcnews.com/health/rejecting-claims-medicare-advantage-rural-hospitals-rcna121012">
+[reports]</a></b> showing that "Medicare Advantage plans threaten rural hospitals and patients" and 
+(<b><a href="https://www.nytimes.com/2022/11/03/upshot/private-medicare-misleading-marketing.html">[misled]</a></b>)
+people into signing up for them. While Project 2025 may pitch these Medicare 'reforms' as encouraging consumer choice, in 
+reality they will leave seniors worse off across the country --- putting the health of many of the [<b>[33 million people 
+enrolled in traditional]</b> <b>
+<a href="https://medicareadvocacy.org/medicare-enrollment-numbers/#:~:text=The%20Centers%20for%20Medicare%20%26%20Medicaid,are%20enrolled%20in%20Original%20Medicare.">[Medicare]</a></b> at risk.
 
 <b>In their own words:</b> Medicare regulations restrict choice of coverage and care. The next Administration should reintroduce and 
 restore regulations and demonstrations from the Trump Administration that were withdrawn, weakened, or never finalized by the Biden 
@@ -560,7 +544,7 @@ Administration."
 
 In the immediate aftermath of the <i>Dobbs</i> decision that overturned <i>Roe
 v. Wade</i>, the Biden administration issued HIPAA
-[<b>[guidance]</b>](https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/08/fact-sheet-president-biden-to-sign-executive-order-protecting-access-to-reproductive-health-care-services/)
+[<b><a href="https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/08/fact-sheet-president-biden-to-sign-executive-order-protecting-access-to-reproductive-health-care-services/">[guidance]</a></b>]
 to "ensure doctors and other medical providers and health plans know
 that, with limited exceptions, they are not required -- and in many
 cases, are not permitted -- to disclose patients' private information,
@@ -615,7 +599,7 @@ Discrimination Across Society democracyforward.org
 > of 1964 and the Fair Housing Act of 1968. It is important for
 > evaluating when 'facially neutral' programs have disparate impacts on
 > certain groups of people. The Civil Rights Division of the DOJ
-> [<b>[determines]</b>](https://www.justice.gov/crt/fcs/T6Manual7#C)
+> [<b><a href="https://www.justice.gov/crt/fcs/T6Manual7#C">[determines]</a></b>]
 > disparate impact as, "does the adverse effect of the policy or
 > practice fall disproportionately on a race, color, or national origin
 > group?"
@@ -655,12 +639,9 @@ have been historically under-resourced because of their racial
 demographics receive proper allocations of resources.
 
 As recently as March 2024, the Biden administration issued a revision to
-[<b>[Statistical]</b> <b>[Directive
-No.15]</b>](https://www.federalregister.gov/documents/2024/03/29/2024-06469/revisions-to-ombs-statistical-policy-directive-no-15-standards-for-maintaining-collecting-and#:~:text=The%20goals%20of%20SPD%2015%20remain%20unchanged%3A%20to%20ensure%20the,collecting%20the%20data%20are%20consistent.),
-which governs "standards for maintaining, collecting, and presenting
-federal data on race and ethnicity." The revision is for more accurate
-and useful race and ethnicity data collection across various agencies of
-the U.S. federal government.
+[<b>[Statistical]</b> <b><a href="https://www.federalregister.gov/documents/2024/03/29/2024-06469/revisions-to-ombs-statistical-policy-directive-no-15-standards-for-maintaining-collecting-and#:~:text=The%20goals%20of%20SPD%2015%20remain%20unchanged%3A%20to%20ensure%20the,collecting%20the%20data%20are%20consistent.">[Directive No.15]</a></b>], which governs "standards for maintaining, collecting, and presenting
+federal data on race and ethnicity." The revision is for more accurate and useful race and ethnicity data collection 
+across various agencies of the U.S. federal government.
 
 > <b>In their own words:</b> Review forthcoming changes to race and
 > ethnicity questions. The current Administration has announced its
@@ -690,14 +671,12 @@ Head Start.
 
 Under the Biden administration, the White House Gender Policy Council
 has led efforts to increase access to
-[<b>[contraception]</b>](https://www.whitehouse.gov/gpc/briefing-room/2024/02/29/strengthening-access-to-contraception-at-pharmacies/),
-published the [<b>[National Plan to End]</b> <b>[Gender-Based
-Violence]</b>,](https://www.whitehouse.gov/gpc/briefing-room/2023/05/25/release-of-the-national-plan-to-end-gender-based-violence-strategies-for-action/)
+[<b><a href="https://www.whitehouse.gov/gpc/briefing-room/2024/02/29/strengthening-access-to-contraception-at-pharmacies/">[contraception]</a></b>],
+published the [<b><a href="https://www.whitehouse.gov/gpc/briefing-room/2023/05/25/release-of-the-national-plan-to-end-gender-based-violence-strategies-for-action/">[National Plan to End]</a></b> <b>[Gender-Based
+Violence]</b>,]
 and begun groundbreaking research into how [<b>[women's]</b>
-<b>[health]</b>](https://www.whitehouse.gov/gpc/briefing-room/2023/11/17/launch-of-white-house-initiative-on-womens-health-research/)
-is studied across the country. Project 2025 would immediately disband
-the Council and prioritize coordinating efforts that push for "promoting
-life" and emphasize a narrow vision of what defines a "family."
+<b><a href="https://www.whitehouse.gov/gpc/briefing-room/2023/11/17/launch-of-white-house-initiative-on-womens-health-research/">[health]</a></b>] is studied across the country. Project 2025 would immediately disband the Council and prioritize coordinating 
+efforts that push for "promoting life" and emphasize a narrow vision of what defines a "family."
 
 4.  <b>How they'd do it:</b>
 
@@ -707,12 +686,9 @@ life" and emphasize a narrow vision of what defines a "family."
 > appropriate care for children --- to cite religious exemptions as a
 > way to promote bigotry.
 
-In 2022, more than [<b>[368,000 children were
-enrolled]</b>](https://www.acf.hhs.gov/sites/default/files/documents/cb/afcars-report-30.pdf)
-in foster care in the U.S. Project 2025 would instruct the Department of
-Health and Human Services to repeal a 2016 regulation that provides
-additional protections for foster youth, related to sexual orientation
-and gender identity.
+In 2022, more than [<b><a href="https://www.acf.hhs.gov/sites/default/files/documents/cb/afcars-report-30.pdf">[368,000 children were enrolled</a></b>] in foster care in the U.S. Project 2025 would instruct the Department of Health and Human Services to 
+repeal a 2016 regulation that provides additional protections for foster youth, related to sexual orientation and gender 
+identity.
 
 Enabling adoption and foster care agencies to subject vulnerable
 children to the whims of extreme religious beliefs would be detrimental
@@ -737,7 +713,7 @@ ensure no communities are left behind or disproportionately harmed.
 Eliminating this office would put the communities that have historically
 borne the brunt of harms from pollution, climate change, and other
 hazards --- which are too often Black and brown
-[<b>[communities]</b>](https://psci.princeton.edu/tips/2020/8/15/racial-disparities-and-climate-change)
+[<b><a href="https://psci.princeton.edu/tips/2020/8/15/racial-disparities-and-climate-change">[communities]</a></b>]
 --- at increased risk.
 
 6.  <b>How they'd do it:</b>
@@ -763,26 +739,17 @@ impose their religious or moral beliefs on their employees.
 
 Additionally, the Biden administration has helped to ensure protections
 from gender identity discrimination across many aspects of our lives,
-[<b>[including]</b>](https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/31/fact-sheet-biden-harris-administration-advances-equality-and-visibility-for-transgender-americans/)
-"health care, housing, education, credit and lending services, and
+[<b><a href="https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/31/fact-sheet-biden-harris-administration-advances-equality-and-visibility-for-transgender-americans/">[including]</a></b>] "health care, housing, education, credit and lending services, and 
 community safety programs."
 
-Project 2025, however, would roll back and severely limit those
-protections and leave already-vulnerable people at increased risk for
-discrimination when trying to rent an apartment, go to school, and more.
+Project 2025, however, would roll back and severely limit those protections and leave already-vulnerable people at increased 
+risk for discrimination when trying to rent an apartment, go to school, and more.
 
 <b><i>From Mandate for Leadership p. 584 & 586</i></b>
 
 democracyforward.org
 
-Set Polluters
-
-Loose and
-
-Undo Climate
-
-Action
-
+Set Polluters Loose and Undo Climate Action
 <b>Their proposals will:</b>
 
 Set Polluters Loose and Undo Climate Action democracyforward.org
@@ -795,27 +762,21 @@ Set Polluters Loose and Undo Climate Action democracyforward.org
 <b>How they'd do it:</b>
 
 Make our air dirtier and worsen climate change.
-
 Project 2025 would make it even harder for the EPA
-
 to take action against climate change by attacking
-
 the "Endangerment Finding."
 
-<b>1</b>
-
 > Much of what the EPA does is tied to the Endangerment Finding, which
-> [<b>[according]</b>](https://www.nrdc.org/sites/default/files/epa-endangerment-finding-fs.pdf)
+> [<b><a href="https://www.nrdc.org/sites/default/files/epa-endangerment-finding-fs.pdf">[according]</a></b>]
 > to the Natural Resources Defense Council (NRDC) "requires the EPA to
 > take action under the Clean Air Act to curb emissions of carbon
 > dioxide, methane, and four other heat-trapping air pollutants from
 > vehicles, power plants, and other industries."
 >
-> Project 2025, however, wants to establish a system to 'update' the
-> 2009
+> Project 2025, however, wants to establish a system to 'update' the 2009
 >
 > Endangerment Finding. According to
-> [<b>[NRDC]</b>](https://www.nrdc.org/sites/default/files/epa-endangerment-finding-fs.pdf),
+> [<b><a href="https://www.nrdc.org/sites/default/files/epa-endangerment-finding-fs.pdf">[NRDC]</a></b>],
 > 'updating' the Endangerment Finding means restricting the federal
 > government's mandate to combat climate change in order to advance the
 > public health and welfare of the American people and our lands.
@@ -832,75 +793,46 @@ the "Endangerment Finding."
 <b>How they'd do it:</b>
 
 Cut off weather, ocean, and climate data by
-
 disbanding NOAA.
 
 Project 2025 would disband
-
 the National Oceanographic and Atmospheric
-
 Administration (NOAA), which provides critical
-
 weather data and insightful scientific research.
-
-<b>2</b>
 
 The National Oceanographic and Atmospheric Administration (NOAA) plays a
 critical role in helping us understand the effects of human behavior on
 the world's oceans and atmosphere. NOAA
-[<b>[issues]</b>](https://www.noaa.gov/about-our-agency) "daily
-weather forecasts," "severe storm warnings," and more. It also monitors
-the climate, manages fisheries, restores coastal environments, and
-supports marine commerce. According to
-[<b>[NOAA]</b>,](https://www.noaa.gov/about-our-agency) the
-agency's "products and services support economic vitality and affect
-more than one-third of America's gross domestic product."
+[<b><a href="https://www.noaa.gov/about-our-agency">[issues]</a></b>] "daily
+weather forecasts," "severe storm warnings," and more. It also monitors the climate, manages fisheries, restores 
+coastal environments, and supports marine commerce. According to 
+[<b><a href="https://www.noaa.gov/about-our-agency">[NOAA]</a></b>,] the agency's "products and services support economic 
+vitality and affect more than one-third of America's gross domestic product."
 
 <b>In their own words:</b>
 
-The National Oceanographic and Atmospheric
-
-Administration (NOAA) should be dismantled and many of its functions
-
-eliminated, sent to other agencies, privatized, or placed under the
-
-control of states and territories.
-
-"
+The National Oceanographic and Atmospheric Administration (NOAA) should be dismantled and many of its functions 
+eliminated, sent to other agencies, privatized, or placed under the control of states and territories."
 
 <b><i>Mandate for Leadership p. 664</i></b>
 
 <b>How they'd do it:</b>
 
 Transfer environmental funding
-
 away from mission-based entities
-
 to state regulators who, in many
-
 cases, do not support sustainable
-
 policies.
 
-Project 2025 seeks to
-
-undo progress made through the
-
-Inflation Reduction Act (IRA) by
-
+Project 2025 seeks to undo progress made through the Inflation Reduction Act (IRA) by
 any means necessary.
 
-<b>3</b>
-
 Additionally, NOAA's reports have made important discoveries about the
-effects of climate change. NOAA's expertise is [<b>[frequently relied
-on]</b>](https://www.fisheries.noaa.gov/topic/climate-change)
-by other federal agencies to "understand how they can respond to and
-adapt to climate change."
+effects of climate change. NOAA's expertise is [<b><a href="https://www.fisheries.noaa.gov/topic/climate-change">
+[frequently relied on]</a></b>] by other federal agencies to "understand how they can respond to and adapt to climate change."
 
-The proposal to disband NOAA would leave federal agencies unequipped to
-combat climate change, not to mention deprive scientists, businesses,
-and the public of key data.
+The proposal to disband NOAA would leave federal agencies unequipped to combat climate change, not to mention deprive 
+scientists, businesses, and the public of key data.
 
 The IRA creates ambitious and expansive investment in climate action and
 infrastructure development, and is a top target of Project 2025. Even
@@ -916,35 +848,28 @@ that would set back climate action.
 <b>How they'd do it:</b>
 
 Expand offshore oil and natural gas drilling on public
-
 lands and waters.
 
 Project 2025 would push the
-
 Department of the Interior to allow oil and natural
-
 gas lease sales "to the maximum extent permitted."
-
-<b>4</b>
 
 The groups behind the Mandate for Leadership want to "conduct offshore
 oil and natural gas lease sales to the maximum extent permitted."
 
 This section of the Mandate for Leadership was written by William Perry
-Pendley, a former Trump administration official who had to [<b>[recuse
-himself]</b>](https://www.tester.senate.gov/newsroom/press-releases/pr-7796/)
+Pendley, a former Trump administration official who had to [<b><a href="https://www.tester.senate.gov/newsroom/press-releases/pr-7796/">[recuse himself]</a></b>]
 from dozens of matters before the Bureau of Land Management (BLM) while
 he was leading it, due to flagrant conflicts of interest as the former
 president of a special interest organization that called for the
 widespread transfer of federal public lands to private holders. Not only
 that, Pendley has [<b>[referred to climate science as
-'junk]</b> <b>[science' and likened the existence of climate
-change to unicorns.]</b>](https://conservationco.org/pendley/)
+'junk]</b> <b><a href="https://conservationco.org/pendley/">[science' and likened the existence of climate
+change to unicorns.]</a></b>]
 
 This proposal would allow fossil fuel companies to drill on more public
 lands and waters, undoing progress made by the current administration to
-[<b>[decrease]</b>](https://www.doi.gov/pressreleases/interior-department-publishes-final-2024-2029-national-outer-continental-shelf-oil)
-this harmful practice.
+[<b><a href="https://www.doi.gov/pressreleases/interior-department-publishes-final-2024-2029-national-outer-continental-shelf-oil">[decrease]</a></b>] this harmful practice.
 
 > <b>In their own words:</b> Conduct offshore oil and natural gas lease
 > sales to the maximum extent permitted under the 2023--2028 lease
@@ -955,9 +880,7 @@ this harmful practice.
 democracyforward.org
 
 Make Education
-
 Unaffordable &
-
 Unwelcoming
 
 <b>Their proposals will:</b>
@@ -992,8 +915,7 @@ Make Education Unaffordable and Unwelcoming democracyforward.org
 >
 > They would also deny loan access to students at schools that provide
 > in-state tuition to undocumented immigrants. That means students in
-> [<b>[25 states and]</b> <b>[Washington
-> D.C.]</b>](https://www.higheredimmigrationportal.org/states/)
+> [<b>[25 states and]</b> <b><a href="https://www.higheredimmigrationportal.org/states/">[Washington D.C.]</a></b>]
 > will not be able to access student loans.
 
 <b><i>From Mandate for Leadership p. 167 & 354</i></b>
@@ -1001,16 +923,11 @@ Make Education Unaffordable and Unwelcoming democracyforward.org
 <b>How they'd do it:</b>
 
 Make public schools even more dangerous for
-
 LGBTQ+ students.
 
 Project 2025 would have the
-
 Secretary of Education remove a host of protections
-
 for LGBTQ+ students in schools.
-
-<b>2</b>
 
 > Public schools are already dangerous for LGBTQ+ students across the
 > nation, especially LGBTQ+ students of color. Project 2025 would make
@@ -1028,39 +945,21 @@ for LGBTQ+ students in schools.
 <b>In their own words:</b>
 
 On its first day in office, the next Administration
-
 should signal its intent to enter the rulemaking process to restore the
 
 Trump Administration's Title IX regulation, with the additional
-insistence
-
-that "sex" is properly understood as a fixed biological fact. Official
-
-notice-and-comment should be posted immediately.
-
-"
+insistence that "sex" is properly understood as a fixed biological fact. Official
+notice-and-comment should be posted immediately."
 
 <b><i>Mandate for Leadership p.333-334</i></b>
 
 <b>How they'd do it:</b>
 
 Push ideology onto funding for
-
 international business programs.
 
-Project
-
-2025
-
-wants to dictate what students learn
-
-in higher education by disproportionately
-
-funding programs that push an ideological
-
-agenda that they agree with.
-
-<b>3</b>
+Project 2025 wants to dictate what students learn in higher education by disproportionately
+funding programs that push an ideological agenda that they agree with.
 
 > In trying to dictate what people can and cannot learn, the special
 > interest authors behind Project 2025 want to direct funding to
@@ -1114,20 +1013,11 @@ agenda that they agree with.
 
 democracyforward.org
 
-Undermine
-
-Government's
-
-Ability to
-
-Deliver for
-
-People
+Undermine Government's Ability to Deliver for People
 
 <b>Their proposals will:</b>
 
-Undermine Government's Ability to Deliver for People
-democracyforward.org
+Undermine Government's Ability to Deliver for People democracyforward.org
 
 > Civil servants are federal employees who work
 >
@@ -1138,19 +1028,9 @@ democracyforward.org
 
 <b>How they'd do it:</b>
 
-Replace non-partisan federal employees with
-
-partisan loyalists.
-
+Replace non-partisan federal employees with partisan loyalists.
 Project 2025 would have a future
-
-president reissue the Trump administration's
-
-Schedule F executive order to make it easier to fire
-
-federal employees.
-
-<b>1</b>
+president reissue the Trump administration's Schedule F executive order to make it easier to fire federal employees.
 
 > Civil servants deliver our mail, keep our air and water clean, and
 > protect consumers from abuse. President Trump's Executive Order 13957
@@ -1167,21 +1047,13 @@ federal employees.
 <b>Democracy Forward sent a letter on</b>
 
 <b>behalf of 27 organizations</b>
-
 in support of
-
 the Biden administration's final rule, in
-
 addition to other supportive comments,
-
 that proactively creates additional
-
 protections for the nation's civil service
-
 --- and provides an important safeguard
-
 against a potential anti-democratic
-
 administration.
 
 > Democracy Forward submitted a comment on behalf of 27 organizations in
@@ -1213,16 +1085,15 @@ administration.
 > D.C.-based offices in an effort to box out long-serving, nonpartisan
 > experts.
 
-Of the 2.2 million federal employees, [<b>[most already do not work in
-Washington,]</b>
-<b>[D.C.]</b>](https://democracyforward.org/wp-content/uploads/2024/01/CivilServiceReport_DemocracyForward_FINAL.pdf)
-Still, we know that many of our nation's foremost experts in their
-respective fields are situated in Washington, D.C., serving the American
-people every day at federal agencies.
+Of the 2.2 million federal employees, [<b><a href="https://democracyforward.org/wp-content/uploads/2024/01/CivilServiceReport_DemocracyForward_FINAL.pdf">
+[most already do not work in Washington,]</a></b>
+<b>[D.C.]</b>]
+Still, we know that many of our nation's foremost experts in their respective fields are situated in Washington, D.C., serving 
+the American people every day at federal agencies.
 
 In 2019, the Trump administration relocated the Bureau of Land
 Management (BLM) to Colorado, resulting in
-[<b>[77%]</b>](https://www.gao.gov/assets/gao-22-104247.pdf#page=19)
+[<b><a href="https://www.gao.gov/assets/gao-22-104247.pdf#page=19">[77%]</a></b>]
 of the bureau's employees resigning from their positions.
 
 If federal agencies are relocated without thoughtful consideration and
@@ -1233,31 +1104,17 @@ people it is meant to serve.
 <b>How they'd do it:</b>
 
 Administer ideologically biased or discriminatory
-
 tests for federal workers.
-
 Project 2025 would issue
-
 problematic civil service tests for prospective
-
 federal employees.
 
-<b>3</b>
-
 The special interests behind Project 2025 want to create their own
-pipeline for
+pipeline for important roles within our federal government, and they have already
+created a personnel
 
-important roles within our federal government, and they have already
-created a
-
-personnel
-
-<b>[databas]</b>
-
-[<b>[e]</b>](https://www.project2025.org/personnel/)
-
+[<b><a href="https://www.project2025.org/personnel/">[database]</a></b>]
 for those who would like to be considered for positions during
-
 a future administration. Registration for this database includes a
 questionnaire
 
@@ -1274,14 +1131,14 @@ They would also utilize legislative or regulatory processes ---
 including through the Office of Personnel Management --- to reinstate
 the usage of general intelligence tests, which have not been in use
 since the Carter administration. At the time, civil rights groups
-[<b>[contended]</b>](https://casetext.com/case/luevano-v-campbell)
+[<b><a href="https://casetext.com/case/luevano-v-campbell">[contended]</a></b>]
 that the general intelligence exam (the Professional and Administration
 Career Exam, or PACE) used to hire for certain agency positions was
 discriminatory. After a class action lawsuit alleging employment
-discrimination [<b>[led]</b> <b>[to a consent
-decree]</b>](https://casetext.com/case/luevano-v-campbell),
+discrimination [<b>[led]</b> <b><a href="https://casetext.com/case/luevano-v-campbell">[to a consent
+decree]</a></b>],
 Carter administration officials
-[<b>[abolished]</b>](https://www.nytimes.com/1981/01/10/us/us-set-to-replace-a-civil-service-test.html)
+[<b><a href="https://www.nytimes.com/1981/01/10/us/us-set-to-replace-a-civil-service-test.html">[abolished]</a></b>]
 the use of the exam for hiring.
 
 Judging prospective candidates for federal employment in ideological or
@@ -1299,13 +1156,10 @@ partisan loyalists would be a tremendous disservice.
 <b>How they'd do it:</b>
 
 Meddle with national security by altering security
-
 clearances.
 
 Project 2025 would remove civil
-
 servants' security clearances and politicize the
-
 granting of clearances.
 
 <b>4</b>
