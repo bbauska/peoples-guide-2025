@@ -1,10 +1,9 @@
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ readme.md of peoples-guide-2025 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p><a href="https://democracyforward.org/work/research/the-peoples-guide-to-project-2025/">
-<h1>The<br>
+<h1><a href="https://democracyforward.org/work/research/the-peoples-guide-to-project-2025/">The<br>
 People's<br>
 Guide to<br>
-Project 2025</h1></a></p>
+Project 2025</a></h1>
 
 <cite>A project by<br>
 <b>Democracy Forward</b></cite>
