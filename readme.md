@@ -4,7 +4,7 @@
 People's<br>
 Guide to<br>
 Project 2025</a></h1>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <cite>A project by<br>
 <b>Democracy Forward</b></cite>
 
@@ -15,76 +15,63 @@ Breaking down the far-right playbook<br>
 to take our country <b>backward</b>
 </blockquote>
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2>Project 2025 is among the<br>
 most <b>profound threats</b><br>
 to the American people.</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3>What is Project 2025?</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p>The Project 2025 Presidential Transition Project is a well-funded (eight-figure) effort of the Heritage 
+Foundation and more than 100 organizations to enable a future anti-democratic presidential administration 
+to take swift, far-right action that would cut wages for working people, dismantle social safety net programs, 
+reverse decades of progress for civil rights, redefine the way our society operates, and undermine our economy.</p>
 
-<h3><b>What is Project 2025?</b></h3>
+<p>A central pillar of Project 2025 is the "Mandate for Leadership," a 900+ page policy playbook authored by 
+Trump administration officials and other extremists that provides a radical vision for our nation and 
+a roadmap to implement it.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h4><b><i>We read Project 2025's entire 900+ page "Mandate for Leadership" so that you don't have to.</i></b></h4>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p>What we discovered was a systemic, ruthless plan to undermine the quality of life of millions of 
+Americans, remove critical protections and dismantle programs for communities across the nation, and 
+prioritize special interests and ideological extremism over people.</p>
 
-The Project 2025 Presidential Transition Project is a well-funded
-(eight-figure) effort of the Heritage Foundation and more than 100
-organizations to enable a future anti-democratic presidential
-administration to take swift, far-right action that would cut wages
-for working people, dismantle social safety net programs, reverse
-decades of progress for civil rights, redefine the way our society
-operates, and undermine our economy.
+<p>From attacking overtime pay, student loans, and reproductive rights, to allowing more discrimination, 
+pollution, and price gouging, those behind Project 2025 are preparing to go to incredible lengths to 
+create a country only for some, not for all of us.</p>
 
-A central pillar of Project 2025 is the"Mandate for Leadership," a
-900+ page policy playbook authored by former Trump administration
-officials and other extremists that provides a radical vision for our
-nation and a roadmap to implement it.
-
-<h4><b>We read Project 2025's entire 900+ page "Mandate for Leadership" so
-that you don't have to.</b></h4>
-
-What we discovered was a systemic, ruthless plan to undermine the
-quality of life of millions of Americans, remove critical protections
-and dismantle programs for communities across the nation, and prioritize
-special interests and ideological extremism over people.
-
-From attacking overtime pay, student loans, and reproductive rights, to
-allowing more discrimination, pollution, and price gouging, those behind
-Project 2025 are preparing to go to incredible lengths to create a
-country only for some, not for all of us.
-
-If these plans are enacted, even without congressional approval, <b>4.3
-million people</b> could lose overtime protections, <b>40 million people</b>
-could have their food assistance reduced, <b>220,000 American jobs</b>
-could be lost, and much, much, more. The stakes are higher than ever for
-democracy and for people.
-
+<p>If these plans are enacted, even without congressional approval, <b>4.3 million people</b> could (and 
+probably will) lose overtime protections, <b>40 million people</b> could (and probaby will) have their 
+food assistance reduced, <b>220,000 American jobs</b> could (and mostly likely will) be lost. Just what 
+he's done with Canada alone will cost thousands of jobs NOW. And much, much, more. The stakes are higher 
+than ever for democracy and for people.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h4><b>These threats aren't hypothetical. These are their real plans.</b></h4>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p>The Heritage Foundation and the 100+ organizations that make up the Project 2025 Advisory Board have mapped 
+out exactly how they will achieve their extreme ends. They aim to carry out many of the most troubling proposals 
+through an anti-democratic president and political loyalists installed in the executive branch, without waiting 
+for congressional action. And, while many of these plans are unlawful, winning in court is not guaranteed given 
+that the same far-right movement that is behind Project 2025 has shaped our current court system.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h4><b>To combat the threats posed by Project 2025, we have to first understand them.</b></h4>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p>What follows are some of the most dangerous proposals that make up Project 2025, specifically those that could 
+be implemented through federal agencies and a far-right executive branch.</p>
 
-The Heritage Foundation and the 100+ organizations that make up the Project
-2025 Advisory Board have mapped out exactly how they will achieve their
-extreme ends. They aim to carry out many of the most troubling proposals
-through an anti-democratic president and political loyalists installed
-in the executive branch, without waiting for congressional action. And,
-while many of these plans are unlawful, winning in court is not
-guaranteed given that the same far-right movement that is behind Project
-2025 has shaped our current court system.
-
-<h4><b>To combat the threats posed by Project 2025, we have to first
-understand them.</b></h4>
-
-What follows are some of the most dangerous proposals that make up
-Project 2025, specifically those that could be implemented through
-federal agencies and a far-right executive branch.
-
-The majority of Americans share the same values and priorities, but
-Project 2025 wants to push an extreme, out-of-touch agenda on all of
-us. <b>By reading this guide and sharing it, we can begin to address
-these threats and go on offense towards building a bold, inclusive
-democracy for all people.</b>
-
-<h4><b>Project 2025 Snapshot</b></h4>
-
-Proposals from Project 2025, discussed in detail throughout this guide,
-that could be implemented through executive branch action alone --- so
-without new legislation --- include:
-
+<p>The majority of Americans share the same values and priorities, but Project 2025 wants to push an extreme, 
+out-of-touch agenda on all of us. <b><i>By reading this guide and sharing it, we can begin to address these 
+threats and go on offense towards building a bold, inclusive democracy for all people.</i></b></p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3>Project 2025 Snapshot</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p><b>Proposals from Project 2025, discussed in detail throughout this guide, that could be implemented through executive 
+branch action alone --- so without new legislation --- include:</b></p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h4><b>Limit access to food assistance,</b></h4>
-which an average of more than 40 million people rely on monthly, 21.6 million households
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+which an average of more than 40 million people rely on monthly, 21.6 million households.
 
 <h4><b>Cut American Rescue Plan</b></h4>
 (ARP) programs that have created or saved 220,000 jobs
