@@ -69,17 +69,21 @@ threats and go on offense towards building a bold, inclusive democracy for all p
 <p><b>Proposals from Project 2025, discussed in detail throughout this guide, that could be implemented through executive 
 branch action alone --- so without new legislation --- include:</b></p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h4><b>Limit access to food assistance,</b></h4>
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-which an average of more than 40 million people rely on monthly, 21.6 million households.
+<li>Cut overtime protections for <a href="https://www.cbsnews.com/news/biden-labor-department-overtime-pay-expansion-who-qualifies-cbs-news-explains/#:~:text=About%204.3%20million%20U.S.%20workers,rule%20from%20the%20Biden%20administration.">4.3 million workers</a>.</li>
+<li>Stop efforts to lower prescription drug prices.</li>
+<li>Limit access to food assistance, which an <a href="https://www.pewresearch.org/short-reads/2023/07/19/what-the-data-says-about-food-stamps-in-the-u-s/">average</a> of more than <a href="https://www.pewresearch.org/short-reads/2023/07/19/what-the-data-says-about-food-stamps-in-the-u-s/">40 million people in 21.6 million households</a> rely on monthly.</li>
+<li>Eliminate the Head Start early education program, which serves over 1 million children annually.</li>
+<li>Cut American Rescue Plan (ARP) programs that have created or saved <a href="https://www.eda.gov/sites/default/files/2023-06/FY2022-Approved-EDA-Annual-Report.pdf">220,000 jobs</a>.
+<li>Restrict access to medication abortion.</li>
+<li>Push more of the <a href="">33 million people enrolled in Medicare</a> towards Medicare Advantage and 
+other worse, private options.</li>
+<li>Expose the <a href="">368,000 children in foster care</a> to risk of increased discrimination.</li>
+<li>Deny <a href="">students in 25 states and Washington, D.C.</a> access to student loans because their state provides in-state tuition to undocumented immigrants.</li>
+<li>Roll back civil rights protections across multiple fronts, including cutting diversity, equity, 
+and inclusion-related (DEI) programs and LGBTQ+ rights in health care, education, and workplaces.</li>
+</ul>
 
-<h4><b>Cut American Rescue Plan</b></h4>
-(ARP) programs that have created or saved 220,000 jobs
-
-<h4><b>Roll back civil rights protections</b></h4>
-across multiple fronts,
-including cutting diversity, equity, and inclusion-related (DEI)
-programs and LGBTQ+ rights in health care, education, and workplaces.
+<h3><a href="https://democracyforward.org/">Cut Wages, Create Unsafe Workplaces, and Destabalize Our Economy</a></h3>
 
 <h4><b>Eliminate the Head Start early education</b></h4>
 program, which serves over <b>Stop efforts</b> to
