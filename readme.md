@@ -127,7 +127,7 @@ Stop people from earning overtime pay.
 Project 2025 wants the Department of Labor to make it harder for people to earn overtime pay.
 
 <p>In 2024, the Biden administration issued a policy that will make over
-[<b>[four million]</b><b><a href="https://www.cbsnews.com/news/biden-labor-department-overtime-pay-expansion-who-qualifies-cbs-news-explains/#:~:text=About%204.3%20million%20U.S.%20workers,rule%20from%20the%20Biden%20administration.">[workers]</a></b> 
+[<b>[four million]</b><b><a href="https://www.cbsnews.com/news/biden-labor-department-overtime-pay-expansion-who-qualifies-cbs-news-explains/#:~:text=About%204.3%20million%20U.S.%20workers,rule%20from%20the%20Biden%20administration.">workers</a></b> 
 newly eligible to qualify for overtime pay. The U.S. Department of Labor did this by raising the 
 "overtime threshold," which is the salary ceiling under which salaried workers still qualify 
 automatically for overtime pay if they work more than 40 hours in a week, even though those 
@@ -151,7 +151,7 @@ economic growth for local economies.
 
 The Economic Development Administration (EDA) was responsible for investing billions of ARP dollars into 
 transformative infrastructure projects across the nation. According to their 2022
-[<b><a href="https://www.eda.gov/sites/default/files/2023-06/FY2022-Approved-EDA-Annual-Report.pdf">[report]</a></b>,
+[<b><a href="https://www.eda.gov/sites/default/files/2023-06/FY2022-Approved-EDA-Annual-Report.pdf">report</a></b>,
 these investments resulted in 220,000 jobs and generated nearly \$20 billion in private investment.
 
 Project 2025 proposes that EDA grants "should be consolidated with other programs and/or eliminated," which 
@@ -170,9 +170,9 @@ effects that could devastate working people, small businesses, and the overall h
 
 Data compiled by the U.S. Bureau of Labor Statistics (BLS) is
 [<b>[intentionally]</b>
-<b><a href="https://www.bls.gov/blog/2020/planning-bls-strategy-for-2025-and-beyond.htm">[independent]</a></b>
+<b><a href="https://www.bls.gov/blog/2020/planning-bls-strategy-for-2025-and-beyond.htm">independent</a></b> 
 from partisan interests and is frequently relied on by the public, employers, researchers, and government 
-organizations. According to [<b><a href="https://www.bls.gov/audience/#:~:text=We%20measure%20employment%2C%20compensation%2C%20worker,at%20work%20and%20at%20home.">[BLS]</a></b>,
+organizations. According to [<b><a href="https://www.bls.gov/audience/#:~:text=We%20measure%20employment%2C%20compensation%2C%20worker,at%20work%20and%20at%20home.">BLS</a></b>, 
 they "measure employment, compensation, worker safety, productivity, and price movements. This information 
 is used by jobseekers, workers, business leaders, and others to help them make sound decisions at work
 and at home."
@@ -180,9 +180,9 @@ and at home."
 Project 2025, however, wants to consolidate the U.S. Bureau of Economic
 Analysis and Census Bureau with BLS into one agency. While formal
 reorganization
-[<b><a href="https://ballotpedia.org/Executive_branch_reorganization_authority">[requires]</a></b> 
+[<b><a href="https://ballotpedia.org/Executive_branch_reorganization_authority">requires</a></b> 
 explicit delegation from Congress to go through, the Trump administration made an
-[<b><a href="https://ballotpedia.org/Trump_administration_proposed_executive_branch_reorganization">[attempt]</a></b> 
+[<b><a href="https://ballotpedia.org/Trump_administration_proposed_executive_branch_reorganization">attempt</a></b> 
 in 2018 to bypass Congress and use other executive powers to do so. If an extremist were to occupy the 
 executive branch again, Project 2025 would want them to go even further.
 
@@ -246,7 +246,7 @@ and reevaluating important programs.
 <b>1</b>
 
 > According to research from the [<b>[U.S. Department of Agriculture
-> <a href="https://frac.org/blog/new-usda-report-provides-picture-of-who-participates-in-snap#:~:text=SNAP%20targets%20those%20in%20greatest%20need.&text=In%20fact%2C%2086%20percent%20of,below%20the%20federal%20poverty%20line.">[USDA]</a></b>,
+> <a href="https://frac.org/blog/new-usda-report-provides-picture-of-who-participates-in-snap#:~:text=SNAP%20targets%20those%20in%20greatest%20need.&text=In%20fact%2C%2086%20percent%20of,below%20the%20federal%20poverty%20line.">USDA</a></b>,
 > 86% of all Supplemental Nutrition Assistance Program (SNAP) benefits
 > go to households that include a child, elderly person, or person with
 > disabilities --- and \~92% of all SNAP benefits go to households with
@@ -259,8 +259,8 @@ and reevaluating important programs.
 > more nutritious foods.
 >
 > Project 2025 wants to reverse course and reimpose ineffective work
-> requirements --- which [<b><a href="https://www.aeaweb.org/articles?id=10.1257/pol.20200561">[recent
-> studies]</a></b>]
+> requirements --- which [<b><a href="https://www.aeaweb.org/articles?id=10.1257/pol.20200561">recent
+> studies</a></b>]
 > have shown do not actually increase employment but do still drive down
 > the number of people who use food assistance --- onto SNAP and
 > reevaluate the Thrifty Food Plan.
@@ -276,8 +276,8 @@ socioeconomic backgrounds.
 
 <b>2</b>
 
-Head Start is a critical program that helps over [<b><a href="https://www.acf.hhs.gov/ohs/about#:~:text=Head%20Start%20and%20Early%20Head%20Start%20grant%20recipients%20provide%20services,more%20than%20155%20tribal%20communities.">[one million 
-children]</a></b>
+Head Start is a critical program that helps over [<b><a href="https://www.acf.hhs.gov/ohs/about#:~:text=Head%20Start%20and%20Early%20Head%20Start%20grant%20recipients%20provide%20services,more%20than%20155%20tribal%20communities.">one million 
+children</a></b>
 across the nation become ready for school by providing them with mental,
 emotional, and social support programming. This program provides
 targeted assistance to lowincome children as an important method to
@@ -354,7 +354,7 @@ The CIG program plays an important role in awarding federal grants to
 local communities in order to fund infrastructure projects. After the
 Bipartisan Infrastructure Law was passed in 2021, CIG was responsible
 for awarding
-[<b><a href="https://www.transit.dot.gov/funding/grants/fact-sheet-capital-investment-grants-program">[billions]</a></b> 
+[<b><a href="https://www.transit.dot.gov/funding/grants/fact-sheet-capital-investment-grants-program">billions</a></b> 
 of dollars for key public transportation projects across the country.
 
 <!-- ![](./images/media/image12.png){width="7.5033344269466316in"
@@ -395,21 +395,21 @@ transformative for millions of seniors in the United States.
 <!-- ![](./images/media/image14.png){width="2.88in"
 height="6.4233344269466315in"}  -->
 
-[<b><a href="https://www.americanprogress.org/article/5-facts-to-know-about-medicare-drug-price-negotiation/">[According to]</a></b>]
+[<b><a href="https://www.americanprogress.org/article/5-facts-to-know-about-medicare-drug-price-negotiation/">According to</a></b>]
 the Center for American Progress, these negotiations are targeting some
 of the most expensive drugs frequently used by seniors, saving hundreds
 of thousands of dollars in drug costs each year. These negotiations are
 also critical for advancing health equity, given that many of the
 prescriptions targeted by the negotiations treat conditions
 [<b><a href="https://www.americanprogress.org/article/5-facts-to-know-about-medicare-drug-price-negotiation/">
-[disparately experienced]</a></b> by people who have historically experienced marginalization because of
+disparately experienced</a></b> by people who have historically experienced marginalization because of
 their race or gender.
 
 While Project 2025's plan is to specifically instruct Congress to repeal
 this part of the IRA, they could also easily advise the Department of
 Justice (DOJ) to stop defending Medicare's ability to negotiate drug
-prices in courts, where the program currently faces [<b>[numerous
-challenges]</b>](https://www.cnn.com/2024/03/01/politics/medicare-drug-price-negotiation-astrazeneca/index.html).
+prices in courts, where the program currently faces [<b><a href="https://www.cnn.com/2024/03/01/politics/medicare-drug-price-negotiation-astrazeneca/index.html">
+numerous challenges</a></b>].
 
 Project 2025's attacks on Medicare's ability to negotiate drug prices
 would negatively impact millions of elderly Americans, particularly
@@ -428,7 +428,7 @@ elderly people of color and those with low incomes.
 Over two decades of medical practice show that mifepristone ---
 medication abortion --- is safe and effective. In fact, just last year,
 [<b><a href="https://www.guttmacher.org/2024/03/medication-abortion-accounted-63-all-us-abortions-2023-increase-53-2020">
-[nearly two-thirds]</a></b>]
+nearly two-thirds</a></b>]
 of all pregnant people relied on medication abortion for their abortion care. This is one of the last lifelines 
 for millions of pregnant people across the United States, as many state governments are ramping up attacks.
 
@@ -458,8 +458,8 @@ of essential health care, even in states where abortion remains legal.
 In states where abortion
 
 is banned or restricted, this would further subject people to the whims
-of state legislatures, many of which have actively [<b><a href="https://www.guttmacher.org/2023/12/state-policy-trends-2023-first-full-year-roe-fell-tumultuous-year-abortion-and-other">[pushed or
-enacted]</a></b>] abortion restrictions since the Supreme Court overturned </i>Roe v. Wade</i>.
+of state legislatures, many of which have actively [<b><a href="https://www.guttmacher.org/2023/12/state-policy-trends-2023-first-full-year-roe-fell-tumultuous-year-abortion-and-other">pushed or
+enacted</a></b>] abortion restrictions since the Supreme Court overturned </i>Roe v. Wade</i>.
 
 <b><i>From Mandate for Leadership p. 458</i></b>
 
@@ -491,8 +491,7 @@ are subject to stricter regulations. If the EPA were to classify
 medication abortion as a "forever chemical," it would stifle the
 approval and distribution of medication abortion.</i>
 
-[<b><i>[According to Politico's 'Anti-abortion forces plan for a Trump
-return':]</i></b>](https://www.politico.com/newsletters/politico-pulse/2024/01/30/anti-abortion-forces-plan-for-a-trump-return-00138398)
+[<b><i><a href="https://www.politico.com/newsletters/politico-pulse/2024/01/30/anti-abortion-forces-plan-for-a-trump-return-00138398">According to Politico's 'Anti-abortion forces plan for a Trump return':</a></i></b>]
 
 <b>In their own words:</b>
 
@@ -512,12 +511,12 @@ to alter this critical program however they can.
 
 Several of their proposals would push people towards private Medicare alternatives, which are not real alternatives 
 at all --- with [<b><a href="https://www.nbcnews.com/health/rejecting-claims-medicare-advantage-rural-hospitals-rcna121012">
-[reports]</a></b> showing that "Medicare Advantage plans threaten rural hospitals and patients" and 
-(<b><a href="https://www.nytimes.com/2022/11/03/upshot/private-medicare-misleading-marketing.html">[misled]</a></b>)
+reports</a></b> showing that "Medicare Advantage plans threaten rural hospitals and patients" and 
+(<b><a href="https://www.nytimes.com/2022/11/03/upshot/private-medicare-misleading-marketing.html">misled</a></b>)
 people into signing up for them. While Project 2025 may pitch these Medicare 'reforms' as encouraging consumer choice, in 
-reality they will leave seniors worse off across the country --- putting the health of many of the [<b>[33 million people 
-enrolled in traditional]</b> <b>
-<a href="https://medicareadvocacy.org/medicare-enrollment-numbers/#:~:text=The%20Centers%20for%20Medicare%20%26%20Medicaid,are%20enrolled%20in%20Original%20Medicare.">[Medicare]</a></b> at risk.
+reality they will leave seniors worse off across the country --- putting the health of many of the [<b><a href="">33 million people 
+enrolled in traditional</a></b> <b>
+<a href="https://medicareadvocacy.org/medicare-enrollment-numbers/#:~:text=The%20Centers%20for%20Medicare%20%26%20Medicaid,are%20enrolled%20in%20Original%20Medicare.">Medicare</a></b> at risk.
 
 <b>In their own words:</b> Medicare regulations restrict choice of coverage and care. The next Administration should reintroduce and 
 restore regulations and demonstrations from the Trump Administration that were withdrawn, weakened, or never finalized by the Biden 
@@ -535,16 +534,16 @@ Administration."
 
 In the immediate aftermath of the <i>Dobbs</i> decision that overturned <i>Roe
 v. Wade</i>, the Biden administration issued HIPAA
-[<b><a href="https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/08/fact-sheet-president-biden-to-sign-executive-order-protecting-access-to-reproductive-health-care-services/">[guidance]</a></b>]
+[<b><a href="https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/08/fact-sheet-president-biden-to-sign-executive-order-protecting-access-to-reproductive-health-care-services/">guidance</a></b>]
 to "ensure doctors and other medical providers and health plans know
 that, with limited exceptions, they are not required -- and in many
 cases, are not permitted -- to disclose patients' private information,
 including to law enforcement." The administration later finalized a
-[<b><a href="https://apnews.com/article/abortion-medical-records-privacy-hipaa-biden-07d3419f3d44050af71de3b3536e3938">[rule]</a></b>] 
+[<b><a href="https://apnews.com/article/abortion-medical-records-privacy-hipaa-biden-07d3419f3d44050af71de3b3536e3938">rule</a></b>] 
 to shield the medical records of patients from criminal investigations if they cross state lines to seek an abortion where it is legal.
 
 Even as extremists in
-[<b><a href="https://www.washingtonpost.com/investigations/2024/05/03/texas-abortion-investigations/">[Texas]</a></b>]
+[<b><a href="https://www.washingtonpost.com/investigations/2024/05/03/texas-abortion-investigations/">Texas</a></b>]
 actively try to use the courts to access information about people
 receiving abortions out of state, Project 2025 claims that the Biden
 administration's privacy guidance is "fear mongering" and would have a
@@ -590,7 +589,7 @@ Discrimination Across Society democracyforward.org
 > of 1964 and the Fair Housing Act of 1968. It is important for
 > evaluating when 'facially neutral' programs have disparate impacts on
 > certain groups of people. The Civil Rights Division of the DOJ
-> [<b><a href="https://www.justice.gov/crt/fcs/T6Manual7#C">[determines]</a></b>]
+> [<b><a href="https://www.justice.gov/crt/fcs/T6Manual7#C">determines</a></b>]
 > disparate impact as, "does the adverse effect of the policy or
 > practice fall disproportionately on a race, color, or national origin
 > group?"
@@ -630,7 +629,7 @@ have been historically under-resourced because of their racial
 demographics receive proper allocations of resources.
 
 As recently as March 2024, the Biden administration issued a revision to
-[<b>[Statistical]</b> <b><a href="https://www.federalregister.gov/documents/2024/03/29/2024-06469/revisions-to-ombs-statistical-policy-directive-no-15-standards-for-maintaining-collecting-and#:~:text=The%20goals%20of%20SPD%2015%20remain%20unchanged%3A%20to%20ensure%20the,collecting%20the%20data%20are%20consistent.">[Directive No.15]</a></b>], which governs "standards for maintaining, collecting, and presenting
+[<b>[Statistical]</b> <b><a href="https://www.federalregister.gov/documents/2024/03/29/2024-06469/revisions-to-ombs-statistical-policy-directive-no-15-standards-for-maintaining-collecting-and#:~:text=The%20goals%20of%20SPD%2015%20remain%20unchanged%3A%20to%20ensure%20the,collecting%20the%20data%20are%20consistent.">Directive No.15</a></b>], which governs "standards for maintaining, collecting, and presenting
 federal data on race and ethnicity." The revision is for more accurate and useful race and ethnicity data collection 
 across various agencies of the U.S. federal government.
 
@@ -662,11 +661,11 @@ Head Start.
 
 Under the Biden administration, the White House Gender Policy Council
 has led efforts to increase access to
-[<b><a href="https://www.whitehouse.gov/gpc/briefing-room/2024/02/29/strengthening-access-to-contraception-at-pharmacies/">[contraception]</a></b>],
-published the [<b><a href="https://www.whitehouse.gov/gpc/briefing-room/2023/05/25/release-of-the-national-plan-to-end-gender-based-violence-strategies-for-action/">[National Plan to End]</a></b> <b>[Gender-Based
-Violence]</b>,]
+[<b><a href="https://www.whitehouse.gov/gpc/briefing-room/2024/02/29/strengthening-access-to-contraception-at-pharmacies/">contraception</a></b>],
+published the [<b><a href="https://www.whitehouse.gov/gpc/briefing-room/2023/05/25/release-of-the-national-plan-to-end-gender-based-violence-strategies-for-action/">[National Plan to End]</a></b> <b>Gender-Based
+Violence</b>,]
 and begun groundbreaking research into how [<b>[women's]</b>
-<b><a href="https://www.whitehouse.gov/gpc/briefing-room/2023/11/17/launch-of-white-house-initiative-on-womens-health-research/">[health]</a></b>] is studied across the country. Project 2025 would immediately disband the Council and prioritize coordinating 
+<b><a href="https://www.whitehouse.gov/gpc/briefing-room/2023/11/17/launch-of-white-house-initiative-on-womens-health-research/">health</a></b>] is studied across the country. Project 2025 would immediately disband the Council and prioritize coordinating 
 efforts that push for "promoting life" and emphasize a narrow vision of what defines a "family."
 
 4.  <b>How they'd do it:</b>
@@ -677,7 +676,7 @@ efforts that push for "promoting life" and emphasize a narrow vision of what def
 > appropriate care for children --- to cite religious exemptions as a
 > way to promote bigotry.
 
-In 2022, more than [<b><a href="https://www.acf.hhs.gov/sites/default/files/documents/cb/afcars-report-30.pdf">[368,000 children were enrolled</a></b>] in foster care in the U.S. Project 2025 would instruct the Department of Health and Human Services to 
+In 2022, more than [<b><a href="https://www.acf.hhs.gov/sites/default/files/documents/cb/afcars-report-30.pdf">368,000 children were enrolled</a></b>] in foster care in the U.S. Project 2025 would instruct the Department of Health and Human Services to 
 repeal a 2016 regulation that provides additional protections for foster youth, related to sexual orientation and gender 
 identity.
 
@@ -704,7 +703,7 @@ ensure no communities are left behind or disproportionately harmed.
 Eliminating this office would put the communities that have historically
 borne the brunt of harms from pollution, climate change, and other
 hazards --- which are too often Black and brown
-[<b><a href="https://psci.princeton.edu/tips/2020/8/15/racial-disparities-and-climate-change">[communities]</a></b>]
+[<b><a href="https://psci.princeton.edu/tips/2020/8/15/racial-disparities-and-climate-change">communities</a></b>]
 --- at increased risk.
 
 6.  <b>How they'd do it:</b>
@@ -730,7 +729,7 @@ impose their religious or moral beliefs on their employees.
 
 Additionally, the Biden administration has helped to ensure protections
 from gender identity discrimination across many aspects of our lives,
-[<b><a href="https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/31/fact-sheet-biden-harris-administration-advances-equality-and-visibility-for-transgender-americans/">[including]</a></b>] "health care, housing, education, credit and lending services, and 
+[<b><a href="https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/31/fact-sheet-biden-harris-administration-advances-equality-and-visibility-for-transgender-americans/">including</a></b>] "health care, housing, education, credit and lending services, and 
 community safety programs."
 
 Project 2025, however, would roll back and severely limit those protections and leave already-vulnerable people at increased 
@@ -758,7 +757,7 @@ to take action against climate change by attacking
 the "Endangerment Finding."
 
 > Much of what the EPA does is tied to the Endangerment Finding, which
-> [<b><a href="https://www.nrdc.org/sites/default/files/epa-endangerment-finding-fs.pdf">[according]</a></b>]
+> [<b><a href="https://www.nrdc.org/sites/default/files/epa-endangerment-finding-fs.pdf">according</a></b>]
 > to the Natural Resources Defense Council (NRDC) "requires the EPA to
 > take action under the Clean Air Act to curb emissions of carbon
 > dioxide, methane, and four other heat-trapping air pollutants from
@@ -767,7 +766,7 @@ the "Endangerment Finding."
 > Project 2025, however, wants to establish a system to 'update' the 2009
 >
 > Endangerment Finding. According to
-> [<b><a href="https://www.nrdc.org/sites/default/files/epa-endangerment-finding-fs.pdf">[NRDC]</a></b>],
+> [<b><a href="https://www.nrdc.org/sites/default/files/epa-endangerment-finding-fs.pdf">NRDC</a></b>],
 > 'updating' the Endangerment Finding means restricting the federal
 > government's mandate to combat climate change in order to advance the
 > public health and welfare of the American people and our lands.
@@ -794,10 +793,10 @@ weather data and insightful scientific research.
 The National Oceanographic and Atmospheric Administration (NOAA) plays a
 critical role in helping us understand the effects of human behavior on
 the world's oceans and atmosphere. NOAA
-[<b><a href="https://www.noaa.gov/about-our-agency">[issues]</a></b>] "daily
+[<b><a href="https://www.noaa.gov/about-our-agency">issues</a></b>] "daily
 weather forecasts," "severe storm warnings," and more. It also monitors the climate, manages fisheries, restores 
 coastal environments, and supports marine commerce. According to 
-[<b><a href="https://www.noaa.gov/about-our-agency">[NOAA]</a></b>,] the agency's "products and services support economic 
+[<b><a href="https://www.noaa.gov/about-our-agency">NOAA</a></b>,] the agency's "products and services support economic 
 vitality and affect more than one-third of America's gross domestic product."
 
 <b>In their own words:</b>
@@ -820,7 +819,7 @@ any means necessary.
 
 Additionally, NOAA's reports have made important discoveries about the
 effects of climate change. NOAA's expertise is [<b><a href="https://www.fisheries.noaa.gov/topic/climate-change">
-[frequently relied on]</a></b>] by other federal agencies to "understand how they can respond to and adapt to climate change."
+frequently relied on</a></b>] by other federal agencies to "understand how they can respond to and adapt to climate change."
 
 The proposal to disband NOAA would leave federal agencies unequipped to combat climate change, not to mention deprive 
 scientists, businesses, and the public of key data.
@@ -849,18 +848,18 @@ The groups behind the Mandate for Leadership want to "conduct offshore
 oil and natural gas lease sales to the maximum extent permitted."
 
 This section of the Mandate for Leadership was written by William Perry
-Pendley, a former Trump administration official who had to [<b><a href="https://www.tester.senate.gov/newsroom/press-releases/pr-7796/">[recuse himself]</a></b>]
+Pendley, a former Trump administration official who had to [<b><a href="https://www.tester.senate.gov/newsroom/press-releases/pr-7796/">recuse himself</a></b>]
 from dozens of matters before the Bureau of Land Management (BLM) while
 he was leading it, due to flagrant conflicts of interest as the former
 president of a special interest organization that called for the
 widespread transfer of federal public lands to private holders. Not only
 that, Pendley has [<b>[referred to climate science as
-'junk]</b> <b><a href="https://conservationco.org/pendley/">[science' and likened the existence of climate
-change to unicorns.]</a></b>]
+'junk]</b> <b><a href="https://conservationco.org/pendley/">science' and likened the existence of climate
+change to unicorns.</a></b>]
 
 This proposal would allow fossil fuel companies to drill on more public
 lands and waters, undoing progress made by the current administration to
-[<b><a href="https://www.doi.gov/pressreleases/interior-department-publishes-final-2024-2029-national-outer-continental-shelf-oil">[decrease]</a></b>] this harmful practice.
+[<b><a href="https://www.doi.gov/pressreleases/interior-department-publishes-final-2024-2029-national-outer-continental-shelf-oil">decrease</a></b>] this harmful practice.
 
 > <b>In their own words:</b> Conduct offshore oil and natural gas lease
 > sales to the maximum extent permitted under the 2023--2028 lease
@@ -906,7 +905,7 @@ Unwelcoming
 >
 > They would also deny loan access to students at schools that provide
 > in-state tuition to undocumented immigrants. That means students in
-> [<b>[25 states and]</b> <b><a href="https://www.higheredimmigrationportal.org/states/">[Washington D.C.]</a></b>]
+> [<b>[25 states and]</b> <b><a href="https://www.higheredimmigrationportal.org/states/">Washington D.C.</a></b>]
 > will not be able to access student loans.
 
 <b><i>From Mandate for Leadership p. 167 & 354</i></b>
@@ -1077,14 +1076,14 @@ administration.
 > experts.
 
 Of the 2.2 million federal employees, [<b><a href="https://democracyforward.org/wp-content/uploads/2024/01/CivilServiceReport_DemocracyForward_FINAL.pdf">
-[most already do not work in Washington,]</a></b>
+most already do not work in Washington,</a></b>
 <b>[D.C.]</b>]
 Still, we know that many of our nation's foremost experts in their respective fields are situated in Washington, D.C., serving 
 the American people every day at federal agencies.
 
 In 2019, the Trump administration relocated the Bureau of Land
 Management (BLM) to Colorado, resulting in
-[<b><a href="https://www.gao.gov/assets/gao-22-104247.pdf#page=19">[77%]</a></b>]
+[<b><a href="https://www.gao.gov/assets/gao-22-104247.pdf#page=19">77%</a></b>]
 of the bureau's employees resigning from their positions.
 
 If federal agencies are relocated without thoughtful consideration and
@@ -1104,7 +1103,7 @@ The special interests behind Project 2025 want to create their own
 pipeline for important roles within our federal government, and they have already
 created a personnel
 
-[<b><a href="https://www.project2025.org/personnel/">[database]</a></b>]
+[<b><a href="https://www.project2025.org/personnel/">database</a></b>]
 for those who would like to be considered for positions during
 a future administration. Registration for this database includes a
 questionnaire
@@ -1122,14 +1121,14 @@ They would also utilize legislative or regulatory processes ---
 including through the Office of Personnel Management --- to reinstate
 the usage of general intelligence tests, which have not been in use
 since the Carter administration. At the time, civil rights groups
-[<b><a href="https://casetext.com/case/luevano-v-campbell">[contended]</a></b>]
+[<b><a href="https://casetext.com/case/luevano-v-campbell">contended</a></b>]
 that the general intelligence exam (the Professional and Administration
 Career Exam, or PACE) used to hire for certain agency positions was
 discriminatory. After a class action lawsuit alleging employment
-discrimination [<b>[led]</b> <b><a href="https://casetext.com/case/luevano-v-campbell">[to a consent
-decree]</a></b>],
+discrimination [<b>[led]</b> <b><a href="https://casetext.com/case/luevano-v-campbell">to a consent
+decree</a></b>],
 Carter administration officials
-[<b><a href="https://www.nytimes.com/1981/01/10/us/us-set-to-replace-a-civil-service-test.html">[abolished]</a></b>]
+[<b><a href="https://www.nytimes.com/1981/01/10/us/us-set-to-replace-a-civil-service-test.html">abolished</a></b>]
 the use of the exam for hiring.
 
 Judging prospective candidates for federal employment in ideological or
@@ -1155,8 +1154,8 @@ granting of clearances.
 
 <b>4</b>
 
-Security clearances are typically revoked according to a [<b>[formal
-process]</b>](https://www.govinfo.gov/content/pkg/WCPD-1995-08-07/pdf/WCPD-1995-08-07-Pg1365.pdf)
+Security clearances are typically revoked according to a [<b><a href="https://www.govinfo.gov/content/pkg/WCPD-1995-08-07/pdf/WCPD-1995-08-07-Pg1365.pdf">formal
+process</a></b>]
 that does provide some due process rights for those whose clearances are
 revoked. Project 2025, however, would encourage a future administration
 to "remove IC (intelligence community) employees" under vague criteria
@@ -1173,7 +1172,7 @@ sensitive national security matters. Take Jared Kushner: when two
 national expert security specialists refused to issue him a clearance
 (due to concerns of foreign influence over him), the Trump
 administration
-[<b>[overruled]</b>](https://www.nbcnews.com/politics/donald-trump/officials-rejected-jared-kushner-top-secret-security-clearance-were-overruled-n962221)
+[<b><a href="https://www.nbcnews.com/politics/donald-trump/officials-rejected-jared-kushner-top-secret-security-clearance-were-overruled-n962221">overruled</a></b>]
 their expertise and gave him one anyway.
 
 > <b>In their own words:</b> The President should immediately revoke the
