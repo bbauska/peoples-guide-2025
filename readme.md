@@ -1,3 +1,5 @@
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ readme.md of peoples-guide-2025 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h1>The<br>
 People's<br>
 Guide to<br>
@@ -67,7 +69,7 @@ understand them.</b></h4>
 
 What follows are some of the most dangerous proposals that make up
 Project 2025, specifically those that could be implemented through
-federal agencies and a farright executive branch.
+federal agencies and a far-right executive branch.
 
 The majority of Americans share the same values and priorities, but
 Project 2025 wants to push an extreme, out-of-touch agenda on all of
@@ -650,47 +652,26 @@ to alter this critical program however they can.
 
 Several of their proposals would push people towards private Medicare
 alternatives, which are not real alternatives at all --- with
-[<b>[reports]</b>](https://www.nbcnews.com/health/rejecting-claims-medicare-advantage-rural-hospitals-rcna121012)
+[<b><a href="https://www.nbcnews.com/health/rejecting-claims-medicare-advantage-rural-hospitals-rcna121012">[reports]</a></b> 
 showing that "Medicare Advantage plans threaten rural hospitals and
-patients" and
-[<b>[misled]</b>](https://www.nytimes.com/2022/11/03/upshot/private-medicare-misleading-marketing.html)
+patients" and (<b><a href="https://www.nytimes.com/2022/11/03/upshot/private-medicare-misleading-marketing.html">[misled]</a></b>)
 people into signing up for them. While Project 2025 may pitch these
 Medicare 'reforms' as encouraging consumer choice, in reality they will
 leave seniors worse off across the country --- putting the health of
 many of the [<b>[33 million people enrolled in traditional]</b>
-<b>[Medicare]</b>](https://medicareadvocacy.org/medicare-enrollment-numbers/#:~:text=The%20Centers%20for%20Medicare%20%26%20Medicaid,are%20enrolled%20in%20Original%20Medicare.)
-at risk.
+<b><a href="https://medicareadvocacy.org/medicare-enrollment-numbers/#:~:text=The%20Centers%20for%20Medicare%20%26%20Medicaid,are%20enrolled%20in%20Original%20Medicare.">[Medicare]</a></b> at risk.
 
-<b>In their own words:</b>
-
-Medicare
-
-regulations restrict choice
-
-of coverage and care. The
-
-next Administration should
-
-reintroduce and restore
-
-regulations and demonstrations
-
-from the Trump Administration
-
-that were withdrawn, weakened,
-
-or never finalized by the Biden
-
-Administration
-
-"
+<b>In their own words:</b> Medicare regulations restrict choice of coverage and care. The next Administration should reintroduce and 
+restore regulations and demonstrations from the Trump Administration that were withdrawn, weakened, or never finalized by the Biden 
+Administration."
 
 <b><i>Mandate for Leadership p. 463</i></b>
 
 <b>4 How they'd do it:</b>
 
-> Make it easier for extremists to access personal information about
-> patients' reproductive care. Project 2025 would remove protections the
+> 1. Make it easier for extremists to access personal information about
+> patients' reproductive care. 
+> 2. Project 2025 would remove protections the
 > Biden administration put in place post-<i>Dobbs</i> to protect the personal
 > information of people who receive reproductive care.
 
@@ -701,12 +682,11 @@ to "ensure doctors and other medical providers and health plans know
 that, with limited exceptions, they are not required -- and in many
 cases, are not permitted -- to disclose patients' private information,
 including to law enforcement." The administration later finalized a
-[<b>[rule]</b>](https://apnews.com/article/abortion-medical-records-privacy-hipaa-biden-07d3419f3d44050af71de3b3536e3938)
-to shield the medical records of patients from criminal investigations
-if they cross state lines to seek an abortion where it is legal.
+[<b><a href="https://apnews.com/article/abortion-medical-records-privacy-hipaa-biden-07d3419f3d44050af71de3b3536e3938">[rule]</a></b>] 
+to shield the medical records of patients from criminal investigations if they cross state lines to seek an abortion where it is legal.
 
 Even as extremists in
-[<b>[Texas]</b>](https://www.washingtonpost.com/investigations/2024/05/03/texas-abortion-investigations/)
+[<b><a href="https://www.washingtonpost.com/investigations/2024/05/03/texas-abortion-investigations/">[Texas]</a></b>]
 actively try to use the courts to access information about people
 receiving abortions out of state, Project 2025 claims that the Biden
 administration's privacy guidance is "fear mongering" and would have a
@@ -722,16 +702,10 @@ medical providers and all pregnant people at increased risk.
 > <i>Dobbs</i>."
 
 # Mandate for Leadership p. 497
-
 democracyforward.org
 
-Enable
-
-Discrimination
-
-Across Society
-
-<b>Their proposals will:</b>
+Enable Discrimination Across Society
+<b>Their proposals will:</b> 
 
 Discrimination Across Society democracyforward.org
 
@@ -741,7 +715,7 @@ Discrimination Across Society democracyforward.org
 > play --- and roll back hard-fought victories by our movements for
 > progress.
 
-<b>1 How they'd do it:</b>
+<b>1. How they'd do it:</b>
 
 > Embolden racial discrimination in everything from housing to education
 > to employment. Project 2025 proposes that the president should remove
@@ -780,7 +754,7 @@ Discrimination Across Society democracyforward.org
 > future Administration." <b><i>Mandate for Leadership p. 72 (and p.
 > 583)</i></b>
 
-<b>2 How they'd do it:</b>
+<b>2. How they'd do it:</b>
 
 > Make it harder for historically under-resourced communities to access
 > Medicaid, Head Start, and other government programs. Population counts
@@ -821,7 +795,7 @@ underrepresented communities at a disadvantage when it comes to
 accessing critical programs we rely on every day --- from Medicaid to
 Head Start.
 
-3.  <b>How they'd do it:</b>
+<b>3. How they'd do it:</b>
 
 > Undermine gender equity across the government.
 >
