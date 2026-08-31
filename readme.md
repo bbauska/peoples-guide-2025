@@ -69,6 +69,7 @@ threats and go on offense towards building a bold, inclusive democracy for all p
 <p><b>Proposals from Project 2025, discussed in detail throughout this guide, that could be implemented through executive 
 branch action alone --- so without new legislation --- include:</b></p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<ul>
 <li>Cut overtime protections for <a href="https://www.cbsnews.com/news/biden-labor-department-overtime-pay-expansion-who-qualifies-cbs-news-explains/#:~:text=About%204.3%20million%20U.S.%20workers,rule%20from%20the%20Biden%20administration.">4.3 million workers</a>.</li>
 <li>Stop efforts to lower prescription drug prices.</li>
 <li>Limit access to food assistance, which an <a href="https://www.pewresearch.org/short-reads/2023/07/19/what-the-data-says-about-food-stamps-in-the-u-s/">average</a> of more than <a href="https://www.pewresearch.org/short-reads/2023/07/19/what-the-data-says-about-food-stamps-in-the-u-s/">40 million people in 21.6 million households</a> rely on monthly.</li>
@@ -86,20 +87,15 @@ and inclusion-related (DEI) programs and LGBTQ+ rights in health care, education
 <h3><a href="https://democracyforward.org/">Cut Wages, Create Unsafe Workplaces, and Destabalize Our Economy</a></h3>
 
 <h4><b>Eliminate the Head Start early education</b></h4>
-program, which serves over <b>Stop efforts</b> to
-lower prescription million children ^drug\ prices^
+program, which serves over <b>Stop efforts</b> to lower prescription million children ^drug\ prices^
 
 <h4><b>Cut overtime</b></h4>
-protections for Push more people towards Medicare
-Advantage and <b>other worse, private</b>
-4.3 million <b>options,</b> that's
-workers 33 million people
+protections for Push more people towards Medicare Advantage and <b>other worse, private</b> 4.3 million 
+<b>options,</b> that's workers 33 million people 
 
 <b>Restrict</b> access to medication abortion Expose the 368,000
-<b>Deny students</b> in 25 states and children
-Washington, D.C. access to student loans
-because their school provides in-state ^in^ <b>foster care</b>
-^to\ risk\ of^ tuition to undocumented immigrants
+<b>Deny students</b> in 25 states and children Washington, D.C. access to student loans because their 
+school provides in-state ^in^ <b>foster care</b> ^to\ risk\ of^ tuition to undocumented immigrants
 ^increased\ discrimination^
 
 Contents:
@@ -118,75 +114,40 @@ Contents:
 <b>[Enable Discrimination Across Society]</b> 24
 
 <b>[Set Polluters Loose and Undo Climate Action]</b> 31
-
 <b>[Make Education Unaffordable and Unwelcoming]</b> 36
-
 <b>[Undermine Government's Ability to Deliver for People]</b>
-41
 
 democracyforward.org
 
-Cut Wages,
-
-Create Unsafe
-
-Workplaces,
-
-and Destabilize
-
-Our Economy
+Cut Wages, Create Unsafe Workplaces, and Destabilize Our Economy
 
 <b>Their proposals will:</b>
 
 democracyforward.org
 
-Destabilize Our Economy
+Destabilize Our Economy 
 
-Project 2025 would enable
-
-corporations
-
-to cut overtime
-
-pay, relax worker safety
-
-rules, allow workplace
-
-discrimination
-
-, and more.
+Project 2025 would enable corporations to cut overtime pay, relax worker safety rules, allow workplace discrimination, and more.
 
 <b>How they'd do it:</b>
 
 Stop people from earning overtime pay.
 
-Project 2025
+Project 2025 wants the Department of Labor to make it harder for people to earn overtime pay.
 
-wants the Department of Labor to make it harder for
+<p>In 2024, the Biden administration issued a policy that will make over
+[<b>[four million]</b><b><a href="https://www.cbsnews.com/news/biden-labor-department-overtime-pay-expansion-who-qualifies-cbs-news-explains/#:~:text=About%204.3%20million%20U.S.%20workers,rule%20from%20the%20Biden%20administration.">[workers]</a></b> 
+newly eligible to qualify for overtime pay. The U.S. Department of Labor did this by raising the 
+"overtime threshold," which is the salary ceiling under which salaried workers still qualify 
+automatically for overtime pay if they work more than 40 hours in a week, even though those 
+workers are not paid hourly. Raising the overtime threshold increases the number of workers with 
+guaranteed overtime protections. Currently, the threshold protects non-hourly workers who make 
+up to \$43,888 annually, and it's set to rise again in 2025 to apply to people making up to \$58,656.</p>
 
-people to earn overtime pay.
-
-<b>1</b>
-
-In 2024, the Biden administration issued a policy that will make over
-[<b>[four million]</b>
-<b>[workers]</b>](https://www.cbsnews.com/news/biden-labor-department-overtime-pay-expansion-who-qualifies-cbs-news-explains/#:~:text=About%204.3%20million%20U.S.%20workers,rule%20from%20the%20Biden%20administration.)
-newly eligible to qualify for overtime pay. The U.S. Department of Labor
-did this by raising the "overtime threshold," which is the salary
-ceiling under which salaried workers still qualify automatically for
-overtime pay if they work more than 40 hours in a week, even though
-those workers are not paid hourly. Raising the overtime threshold
-increases the number of workers with guaranteed overtime protections.
-Currently, the threshold protects non-hourly workers who make up to
-\$43,888 annually, and it's set to rise again in 2025 to apply to people
-making up to \$58,656.
-
-Project 2025 doesn't want to raise this threshold. Instead, Project 2025
-proposes lowering the threshold and taking away overtime eligibility for
-millions of workers. This would leave at least four million working
-people in industries that pay annually but still at lower wages stuck
-working long hours without overtime pay --- everything from hospitality
-to manufacturing, administrative roles, and more.
+Project 2025 doesn't want to raise this threshold. Instead, Project 2025 proposes lowering the threshold 
+and taking away overtime eligibility for millions of workers. This would leave at least four million working 
+people in industries that pay annually but still at lower wages stuck working long hours without overtime 
+pay --- everything from hospitality to manufacturing, administrative roles, and more.
 
 <b><i>From Mandate for Leadership p. 492</i></b>
 
@@ -194,26 +155,17 @@ to manufacturing, administrative roles, and more.
 
 Cut funding for local job-creating programs.
 
-Project 2025 proposes to destroy a program that
-
-plays a pivotal role in facilitating transformative
-
+Project 2025 proposes to destroy a program that plays a pivotal role in facilitating transformative 
 economic growth for local economies.
 
-<b>2</b>
+The Economic Development Administration (EDA) was responsible for investing billions of ARP dollars into 
+transformative infrastructure projects across the nation. According to their 2022
+[<b><a href="https://www.eda.gov/sites/default/files/2023-06/FY2022-Approved-EDA-Annual-Report.pdf">[report]</a></b>,
+these investments resulted in 220,000 jobs and generated nearly \$20 billion in private investment.
 
-The Economic Development Administration (EDA) was responsible for
-investing billions of ARP dollars into transformative infrastructure
-projects across the nation. According to their 2022
-[<b>[report]</b>](https://www.eda.gov/sites/default/files/2023-06/FY2022-Approved-EDA-Annual-Report.pdf),
-these investments resulted in 220,000 jobs and generated nearly \$20
-billion in private investment.
-
-Project 2025 proposes that EDA grants "should be consolidated with other
-programs and/or eliminated," which would undermine the ability of the
-federal government to invest in communities across the nation --- with
-effects that could devastate working people, small businesses, and the
-overall health of our economy.
+Project 2025 proposes that EDA grants "should be consolidated with other programs and/or eliminated," which 
+would undermine the ability of the federal government to invest in communities across the nation --- with 
+effects that could devastate working people, small businesses, and the overall health of our economy.
 
 <b><i>From Mandate for Leadership p. 664</i></b>
 
@@ -227,44 +179,32 @@ overall health of our economy.
 
 Data compiled by the U.S. Bureau of Labor Statistics (BLS) is
 [<b>[intentionally]</b>
-<b>[independent]</b>](https://www.bls.gov/blog/2020/planning-bls-strategy-for-2025-and-beyond.htm)
-from partisan interests and is frequently relied on by the public,
-employers, researchers, and government organizations. According to
-[<b>[BLS]</b>,](https://www.bls.gov/audience/#:~:text=We%20measure%20employment%2C%20compensation%2C%20worker,at%20work%20and%20at%20home.)
-they "measure employment, compensation, worker safety, productivity, and
-price movements. This information is used by jobseekers, workers,
-business leaders, and others to help them make sound decisions at work
+<b><a href="https://www.bls.gov/blog/2020/planning-bls-strategy-for-2025-and-beyond.htm">[independent]</a></b>
+from partisan interests and is frequently relied on by the public, employers, researchers, and government 
+organizations. According to [<b><a href="https://www.bls.gov/audience/#:~:text=We%20measure%20employment%2C%20compensation%2C%20worker,at%20work%20and%20at%20home.">[BLS]</a></b>,
+they "measure employment, compensation, worker safety, productivity, and price movements. This information 
+is used by jobseekers, workers, business leaders, and others to help them make sound decisions at work
 and at home."
 
 Project 2025, however, wants to consolidate the U.S. Bureau of Economic
 Analysis and Census Bureau with BLS into one agency. While formal
 reorganization
-[<b>[requires]</b>](https://ballotpedia.org/Executive_branch_reorganization_authority)
-explicit delegation from Congress to go through, the Trump
-administration made an
-[<b>[attempt]</b>](https://ballotpedia.org/Trump_administration_proposed_executive_branch_reorganization)
-in 2018 to bypass Congress and use other executive powers to do so. If
-an extremist were to occupy the executive branch again, Project 2025
-would want them to go even further.
+[<b><a href="https://ballotpedia.org/Executive_branch_reorganization_authority">[requires]</a></b> 
+explicit delegation from Congress to go through, the Trump administration made an
+[<b><a href="https://ballotpedia.org/Trump_administration_proposed_executive_branch_reorganization">[attempt]</a></b> 
+in 2018 to bypass Congress and use other executive powers to do so. If an extremist were to occupy the 
+executive branch again, Project 2025 would want them to go even further.
 
-Politicizing BLS and reducing the data collection capacity of the agency
-by consolidating it into the Census Bureau would make it harder to know
-how our economy is doing, whether families' paychecks are growing, and
-what steps we may need to take to make sure small businesses are
-thriving and people have enough in their bank accounts to make ends
-meet.
+Politicizing BLS and reducing the data collection capacity of the agency by consolidating it into the Census 
+Bureau would make it harder to know how our economy is doing, whether families' paychecks are growing, and 
+what steps we may need to take to make sure small businesses are thriving and people have enough in their bank 
+accounts to make ends meet.
 
 <b>How they'd do it:</b>
 
 Weaken child labor protections.
 
-Project 2025 would
-
-amend hazard regulations to allow employers to put
-
-young people in unsafe working conditions.
-
-<b>4</b>
+Project 2025 would amend hazard regulations to allow employers to put young people in unsafe working conditions.
 
 The authors of Project 2025 think that young people should be able to
 work in "inherently dangerous jobs," in roles that are currently not
@@ -281,39 +221,16 @@ or get paid as well.
 
 Hazard-Order
 
-Regulations. Some young adults
-
-show an interest in inherently
-
-dangerous jobs. Current rules forbid
-
-many young people, even if their
-
-family is running the business, from
-
-working in such jobs. This results in
-
-worker shortages in dangerous fields
-
-and often discourages otherwise
-
-interested young workers from trying
-
-the more dangerous job.
-
-"
+Regulations. Some young adults show an interest in inherently dangerous jobs. Current rules forbid
+many young people, even if their family is running the business, from working in such jobs. This results in 
+worker shortages in dangerous fields and often discourages otherwise interested young workers from trying
+the more dangerous job. "
 
 <b><i>Mandate for Leadership p. 595</i></b>
 
 democracyforward.org
 
-Make It Harder
-
-for Americans
-
-to Make
-
-Ends Meet
+Make It Harder for Americans to Make Ends Meet
 
 <b>Their proposals will:</b>
 
@@ -331,17 +248,14 @@ Make It Harder for Americans To Make Ends Meet democracyforward.org
 Restrict access to food assistance.
 
 Project 2025
-
 would make it harder for people to access food
-
 assistance by adding ineffective requirements
-
 and reevaluating important programs.
 
 <b>1</b>
 
 > According to research from the [<b>[U.S. Department of Agriculture
-> (USDA)]</b>](https://frac.org/blog/new-usda-report-provides-picture-of-who-participates-in-snap#:~:text=SNAP%20targets%20those%20in%20greatest%20need.&text=In%20fact%2C%2086%20percent%20of,below%20the%20federal%20poverty%20line.),
+> <a href="https://frac.org/blog/new-usda-report-provides-picture-of-who-participates-in-snap#:~:text=SNAP%20targets%20those%20in%20greatest%20need.&text=In%20fact%2C%2086%20percent%20of,below%20the%20federal%20poverty%20line.">[USDA]</a></b>,
 > 86% of all Supplemental Nutrition Assistance Program (SNAP) benefits
 > go to households that include a child, elderly person, or person with
 > disabilities --- and \~92% of all SNAP benefits go to households with
@@ -366,26 +280,23 @@ and reevaluating important programs.
 
 Eliminate the Head Start program.
 
-Project 2025
-
-would destroy a program that is critical to
-
-uplifting children across the nation from lower
-
+Project 2025 would destroy a program that is critical to uplifting children across the nation from lower
 socioeconomic backgrounds.
 
 <b>2</b>
 
-Head Start is a critical program that helps over [<b>[one million
-children]</b>](https://www.acf.hhs.gov/ohs/about#:~:text=Head%20Start%20and%20Early%20Head%20Start%20grant%20recipients%20provide%20services,more%20than%20155%20tribal%20communities.)
+Head Start is a critical program that helps over [<b><a href="https://www.acf.hhs.gov/ohs/about#:~:text=Head%20Start%20and%20Early%20Head%20Start%20grant%20recipients%20provide%20services,more%20than%20155%20tribal%20communities.">[one million 
+children]</a></b>
 across the nation become ready for school by providing them with mental,
 emotional, and social support programming. This program provides
 targeted assistance to lowincome children as an important method to
 bridge inequities and ensure that all children receive a solid
 foundation as they embark on their educational journey.
-
+<!--
 ![](./images/media/image10.png){width="4.06in"
-height="3.6233333333333335in"}Project 2025 proposes to eliminate the
+height="3.6233333333333335in"}  -->
+
+Project 2025 proposes to eliminate the
 program. Without Head Start, families who are already struggling
 financially could experience even greater economic burdens as they would
 have to spend more on childcare and education.
@@ -400,9 +311,7 @@ have to spend more on childcare and education.
 
 Limit which disabilities qualify veterans for benefits.
 
-The authors of Project 2025 think that too many
-
-veterans qualify for disability benefits.
+The authors of Project 2025 think that too many veterans qualify for disability benefits.
 
 <b>3</b>
 
@@ -419,9 +328,7 @@ veterans' access to lifesustaining benefits.
 
 Remove safety nets for farmers.
 
-Project 2025 thinks
-
-that farmers are receiving too much assistance.
+Project 2025 thinks that farmers are receiving too much assistance.
 
 <b>4</b>
 
@@ -431,8 +338,10 @@ market conditions. This means that while some years a farmer may be
 doing great, the next they could be on the brink of economic failure.
 That's where safety nets come in.
 
-![](./images/media/image11.png){width="2.4266666666666667in"
-height="3.2333333333333334in"}Project 2025 wants to restrict safety nets
+<!-- ![](./images/media/image11.png){width="2.4266666666666667in"
+height="3.2333333333333334in"} -->
+
+Project 2025 wants to restrict safety nets
 for farmers to 'unusual situations' --- even though we know that the
 difficult conditions farmers experience are not unusual but common. A
 restriction of assistance to farmers would disparately impact low-income
@@ -443,17 +352,10 @@ go awry.
 
 <b>How they'd do it:</b>
 
-Eliminate funding for key public transportation
+Eliminate funding for key public transportation projects.
 
-projects.
-
-Despite its transformational investments in
-
-communities across the U.S., the Capital Investment
-
-Grants (CIG) program is a Project 2025 target for
-
-elimination.
+Despite its transformational investments in communities across the U.S., the Capital Investment
+Grants (CIG) program is a Project 2025 target for elimination.
 
 <b>5</b>
 
@@ -461,11 +363,13 @@ The CIG program plays an important role in awarding federal grants to
 local communities in order to fund infrastructure projects. After the
 Bipartisan Infrastructure Law was passed in 2021, CIG was responsible
 for awarding
-[<b>[billions]</b>](https://www.transit.dot.gov/funding/grants/fact-sheet-capital-investment-grants-program)
+[<b><a href="https://www.transit.dot.gov/funding/grants/fact-sheet-capital-investment-grants-program">[billions]</a></b> 
 of dollars for key public transportation projects across the country.
 
-![](./images/media/image12.png){width="7.5033344269466316in"
-height="6.223333333333334in"}Project 2025 wants to eliminate CIG, which
+<!-- ![](./images/media/image12.png){width="7.5033344269466316in"
+height="6.223333333333334in"}  -->
+
+Project 2025 wants to eliminate CIG, which
 could make it much harder for Americans without cars to get to work and
 travel around town --- to work or just to be with family and friends.
 
@@ -473,13 +377,7 @@ travel around town --- to work or just to be with family and friends.
 
 democracyforward.org
 
-Restrict
-
-Reproductive
-
-Rights & Access
-
-to Health Care
+Restrict Reproductive Rights & Access to Health Care
 
 <b>Their proposals will:</b>
 
@@ -495,9 +393,7 @@ democracyforward.org
 
 Keep the cost of lifesaving medication too high.
 
-Project 2025 would undo Medicare's new ability
-
-to negotiate lower prescription prices for seniors.
+Project 2025 would undo Medicare's new ability to negotiate lower prescription prices for seniors.
 
 <b>1</b>
 
@@ -505,17 +401,17 @@ Medicare's new ability to negotiate lower prescription drug prices for
 seniors, established through the Inflation Reduction Act (IRA), will be
 transformative for millions of seniors in the United States.
 
-![](./images/media/image14.png){width="2.88in"
-height="6.4233344269466315in"}[<b>[According
-to]</b>](https://www.americanprogress.org/article/5-facts-to-know-about-medicare-drug-price-negotiation/)
+<!-- ![](./images/media/image14.png){width="2.88in"
+height="6.4233344269466315in"}  -->
+
+[<b><a href="https://www.americanprogress.org/article/5-facts-to-know-about-medicare-drug-price-negotiation/">[According to]</a></b>]
 the Center for American Progress, these negotiations are targeting some
 of the most expensive drugs frequently used by seniors, saving hundreds
 of thousands of dollars in drug costs each year. These negotiations are
 also critical for advancing health equity, given that many of the
 prescriptions targeted by the negotiations treat conditions
-[<b>[disparately
-experienced]</b>](https://www.americanprogress.org/article/5-facts-to-know-about-medicare-drug-price-negotiation/)
-by people who have historically experienced marginalization because of
+[<b><a href="https://www.americanprogress.org/article/5-facts-to-know-about-medicare-drug-price-negotiation/">
+[disparately experienced]</a></b> by people who have historically experienced marginalization because of
 their race or gender.
 
 While Project 2025's plan is to specifically instruct Congress to repeal
@@ -540,16 +436,13 @@ elderly people of color and those with low incomes.
 
 Over two decades of medical practice show that mifepristone ---
 medication abortion --- is safe and effective. In fact, just last year,
-[<b>[nearly
-two-thirds]</b>](https://www.guttmacher.org/2024/03/medication-abortion-accounted-63-all-us-abortions-2023-increase-53-2020)
-of all pregnant people relied on medication abortion for their abortion
-care. This is one of the last lifelines for millions of pregnant people
-across the United States, as many state governments are ramping up
-attacks.
+[<b><a href="https://www.guttmacher.org/2024/03/medication-abortion-accounted-63-all-us-abortions-2023-increase-53-2020">
+[nearly two-thirds]</a></b>]
+of all pregnant people relied on medication abortion for their abortion care. This is one of the last lifelines 
+for millions of pregnant people across the United States, as many state governments are ramping up attacks.
 
-The anti-abortion extremists behind Project 2025, not content with
-merely overturning <i>Roe v. Wade</i>, want to attack access to medication
-abortion nationwide by any means necessary.
+The anti-abortion extremists behind Project 2025, not content with merely overturning <i>Roe v. Wade</i>, want 
+to attack access to medication abortion nationwide by any means necessary.
 
 a.  </i>Project 2025 would weaponize the long-dormant Comstock Act to try
     and make the delivery of medication abortion by mail illegal.</i>
@@ -574,9 +467,8 @@ of essential health care, even in states where abortion remains legal.
 In states where abortion
 
 is banned or restricted, this would further subject people to the whims
-of state legislatures, many of which have actively [<b>[pushed or
-enacted]</b>](https://www.guttmacher.org/2023/12/state-policy-trends-2023-first-full-year-roe-fell-tumultuous-year-abortion-and-other)
-abortion restrictions since the Supreme Court overturned </i>Roe v. Wade</i>.
+of state legislatures, many of which have actively [<b><a href="https://www.guttmacher.org/2023/12/state-policy-trends-2023-first-full-year-roe-fell-tumultuous-year-abortion-and-other">[pushed or
+enacted]</a></b>] abortion restrictions since the Supreme Court overturned </i>Roe v. Wade</i>.
 
 <b><i>From Mandate for Leadership p. 458</i></b>
 
