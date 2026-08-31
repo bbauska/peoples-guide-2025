@@ -84,7 +84,7 @@ other worse, private options.</li>
 and inclusion-related (DEI) programs and LGBTQ+ rights in health care, education, and workplaces.</li>
 </ul>
 
-<h3><a href="https://democracyforward.org/">Cut Wages, Create Unsafe Workplaces, and Destabalize Our Economy</a></h3>
+<h4><a href="https://democracyforward.org/">Cut Wages, Create Unsafe Workplaces, and Destabalize Our Economy</a></h4>
 
 <h4><b>Eliminate the Head Start early education</b></h4>
 program, which serves over <b>Stop efforts</b> to lower prescription million children ^drug\ prices^
@@ -101,30 +101,21 @@ school provides in-state ^in^ <b>foster care</b> ^to\ risk\ of^ tuition to undoc
 Contents:
 
 <h4><b>Here's what's under attack</b></h4>
-
-<b>[Cut Wages, Create Unsafe Workplaces,]</b>
-
-<b>[and Destabilize Our Economy]</b> 06
-
-<b>[Make It Harder for Americans to Make Ends Meet]</b> 11
-
-<b>[Restrict Reproductive Rights and Access to Healthcare]</b>
-17
-
-<b>[Enable Discrimination Across Society]</b> 24
-
-<b>[Set Polluters Loose and Undo Climate Action]</b> 31
-<b>[Make Education Unaffordable and Unwelcoming]</b> 36
-<b>[Undermine Government's Ability to Deliver for People]</b>
+<ol>
+  <li><b><a href="#ch1">Cut Wages, Create Unsafe Workplaces and Destabilize Our Economy</a>,</b></li>
+  <li><b><a href="#ch2">Make It Harder for Americans to Make Ends Meet</a></b></li>
+  <li><b><a href="#ch3">Restrict Reproductive Rights and Access to Healthcare</a></b></li>
+  <li><b><a href="#ch4">Enable Discrimination Across Society</a></b></li>
+  <li><b><a href="#ch5">Set Polluters Loose and Undo Climate Action</a></b></li>
+  <li><b><a href="#ch6">Make Education Unaffordable and Unwelcoming</a></b></li>
+  <li><b><a href="#ch7">Undermine Government's Ability to Deliver for People</a></b></li>
+</ol>
 
 democracyforward.org
 
-Cut Wages, Create Unsafe Workplaces, and Destabilize Our Economy
+<h3 id="ch1">Chapter 1: Cut Wages, Create Unsafe Workplaces, and Destabilize Our Economy</h3>
 
 <b>Their proposals will:</b>
-
-democracyforward.org
-
 Destabilize Our Economy 
 
 Project 2025 would enable corporations to cut overtime pay, relax worker safety rules, allow workplace discrimination, and more.
@@ -230,7 +221,7 @@ the more dangerous job. "
 
 democracyforward.org
 
-Make It Harder for Americans to Make Ends Meet
+<h3 id="ch2">Chapter 2: Make It Harder for Americans to Make Ends Meet</h3>
 
 <b>Their proposals will:</b>
 
@@ -268,8 +259,8 @@ and reevaluating important programs.
 > more nutritious foods.
 >
 > Project 2025 wants to reverse course and reimpose ineffective work
-> requirements --- which [<b>[recent
-> studies]</b>](https://www.aeaweb.org/articles?id=10.1257/pol.20200561)
+> requirements --- which [<b><a href="https://www.aeaweb.org/articles?id=10.1257/pol.20200561">[recent
+> studies]</a></b>]
 > have shown do not actually increase employment but do still drive down
 > the number of people who use food assistance --- onto SNAP and
 > reevaluate the Thrifty Food Plan.
@@ -377,7 +368,7 @@ travel around town --- to work or just to be with family and friends.
 
 democracyforward.org
 
-Restrict Reproductive Rights & Access to Health Care
+<h3 id="ch3">Chapter 3: Restrict Reproductive Rights & Access to Health Care</h3>
 
 <b>Their proposals will:</b>
 
@@ -571,7 +562,7 @@ medical providers and all pregnant people at increased risk.
 # Mandate for Leadership p. 497
 democracyforward.org
 
-Enable Discrimination Across Society
+<h3 id="ch4">Chapter 4: Enable Discrimination Across Society</h3>
 <b>Their proposals will:</b> 
 
 Discrimination Across Society democracyforward.org
@@ -749,7 +740,7 @@ risk for discrimination when trying to rent an apartment, go to school, and more
 
 democracyforward.org
 
-Set Polluters Loose and Undo Climate Action
+<h3 id="ch5">Chapter 5: Set Polluters Loose and Undo Climate Action</h3>
 <b>Their proposals will:</b>
 
 Set Polluters Loose and Undo Climate Action democracyforward.org
@@ -885,7 +876,7 @@ Unwelcoming
 
 <b>Their proposals will:</b>
 
-Make Education Unaffordable and Unwelcoming democracyforward.org
+<h3 id="ch6">Chapter 6: Make Education Unaffordable and Unwelcoming democracyforward.org</h3>
 
 > Our public schools are foundational to our democracy. When special
 > interests undermine public schools, they undermine the ability of
@@ -1013,7 +1004,7 @@ funding programs that push an ideological agenda that they agree with.
 
 democracyforward.org
 
-Undermine Government's Ability to Deliver for People
+<h3 id="ch7">Chapter 7: Undermine Government's Ability to Deliver for People</h3>
 
 <b>Their proposals will:</b>
 
