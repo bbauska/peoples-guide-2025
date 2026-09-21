@@ -2,7 +2,8 @@
   "name": "Peoples Guide v Project 2025",
   "short_name": "Peoples Guide", 
   "start_url": "index.html",
-  "display": "standalone", "icons": [
+  "display": "standalone", 
+  "icons": [
   {
    "src": "\/images/android-icon-36x36.png",
    "sizes": "36x36",
