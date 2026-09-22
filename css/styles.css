@@ -17,7 +17,7 @@ p {
   line-height: 1.3;
 }
 ul,ol li {
-  font-size: 14.5px;
+  font-size: 1.0rem;  /* 14.5px; */
   font-family: "IM Fell DW Pica", serif, Bahnschrift, Inter, Helvetic, sans-serif;
   padding: 14.5px;  /* 10px */
   margin-left: 0em; /* was 3em */
