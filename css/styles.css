@@ -177,6 +177,9 @@ article {
   font-size: 1rem;
   text-transform: uppercase;
 }
+.menu-subheading {
+  font-size: .9rem;
+}
 .intro {
   background-image: url(../images/Newest_Peoples_Guide.jpg);
   background-size: cover;
