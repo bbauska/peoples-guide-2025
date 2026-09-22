@@ -178,7 +178,7 @@ article {
   text-transform: uppercase;
 }
 .intro {
-  background-image: url(../images/New_Peoples_Guide.jpg);
+  background-image: url(../images/Newest_Peoples_Guide.jpg);
   background-size: cover;
   background-position: center;
   height: 100vh;
@@ -186,7 +186,7 @@ article {
 
 @media (min-width: 768px) {
   .intro {
-    background-image: url(../images/New_Peoples_Guide.jpg);
+    background-image: url(../images/Newest_Peoples_Guide.jpg);
     background-position: center 20%;
   }
 }
