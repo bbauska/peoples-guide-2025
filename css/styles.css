@@ -181,7 +181,7 @@ article {
   font-size: .9rem;
 }
 .intro {
-  background-image: url(../images/Newest_Peoples_Guide.jpg);
+  background-image: url(../images/peoples-guide.jpg);
   background-size: cover;
   background-position: center;
   height: 100vh;
@@ -189,7 +189,7 @@ article {
 
 @media (min-width: 768px) {
   .intro {
-    background-image: url(../images/Newest_Peoples_Guide.jpg);
+    background-image: url(../images/peoples-guide.jpg);
     background-position: center 20%;
   }
 }
